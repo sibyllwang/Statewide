@@ -1,0 +1,66 @@
+---
+title: "Statewide Tutorial"
+output: html_document
+---
+
+## Welcome to Statewide!
+
+* Statewide is a tool to analyze and vizualize datasets that include data for the 50 US states! 
+* The user is the focus of the *Statewide* app. We want you (with some guidance) to begin uploading and analyzing your own data in no time!
+* Let's get started with a quick tutorial!
+
+## Foods Dataset
+
+#### Motivation
+* The idea for *Statewide* started with a dataset from the CDC, which you can find [here](https://wwwn.cdc.gov/foodborneoutbreaks/) that details foodborne illness outbreaks in the United States from 1998 - 2015. 
+* While our *Statewide* is similar to the widget on the CDC page, one of the goals of our project was to extend such analysis to whatever data the user wanted to upload, provided the data contains yearly, state-level data. 
+
+#### The Data
+* In the *Statewide* app, head over to the tutorial page. The first thing you should see is a tab that says "Sample Data."
+* Here you'll find the "Foods" data in table format. Each row corresponds to an outbreak event, and you'll see several variables detailing each outbreak in the dataset. 
+* Most variables are pretty straightforward: "illnesses" details the number of illnesses in the outbreak, "hospitalizations" details the number of hospitalizations in the outbreak while "deaths" gives the number deaths in the outbreak. "Death Rate" gives the  ratio of deaths to illnesses in the outbreak. "Food_vehicle" gives the the food that sick individuals consumed prior to getting ill. 
+* After you explore the data a bit, head over to the "Sample Map and Plot" tab. 
+
+#### Data Visualization
+* In the "Sample Map and Plot" tab, you'll see some interactive options on the left, as well as a map of the United States and a plot below it. 
+* The slider will allow you to select the range of years you wish to display. The app will automatically subset and display the data for your in both the map and the plot below it!
+* With the dropdown menu "Response Variable," you can select which variable will show up on the map and the y-axis of the plot below it. 
+* On top of the map, the dropdown menu "Map Statistic" allows you to choose which statistic is being displayed in the map, mean or sum across all observations. The button "Crude, Per Capita or Per 10,000" will allow you to display the data as is, by per capita, or per 10,000. 
+* Note that when a state is colored black, it means the data that is plotted has no information about that state.
+* For the plot, the dropdown "Plot X Variable" will aggregate the x-axis of the plot by the variable of your choosing, allowing you to explore many different relationships in the foods data graphically.
+* With the "Type of Plot" button, you can make your plot either a boxplot or a dotplot.
+* Note that "Choose year(s)" and "Response Variable" while next to the map, also affect the plot. 
+* The "Download Map" and "Download Plot" buttons will save the map or plot displayed to your local device!
+
+#### Data Table
+* Finally, lets head over to the "Sample Table" tab. You'll see a slider and some other inputs on the left and a table on the right. Here you'll be able to subset and aggregate the foods data. 
+* Like for the map, the slider will subset the data by the years you select and display the subsetted data in the table. 
+* The input "Categorical Table Variable" will allow you to aggregate the numeric variable you choose in "Numeric Table Variable" by the levels of that categorical variable.
+* The "Table Statistic" input lets you aggregate the subsetted data by sum or mean. 
+
+## Upload Your Own Data
+* Now that we've covered the tuotorial, it's time for you to try out *Statewide* with your own data. Begin by selecting the "Upload and View Data" tab. 
+* Here you'll be able to upload your own dataset in CSV format and choose specific delimiters for the data if needed. 
+* Once the data is uploaded, it should display in a table format to the right of the "Upload Data" button. 
+* **NOTE**: Due to the nature of the *Statewide* app, your data should have a "State" variable. Your data should have a "Year" variable as well, ideally with data for more than one year. You do not need to worry about capitalization, plural/single variable names, and 2-letter state code to full state name conversion. We take care of those.
+* Here are a couple links that help you format your data to become compatible with out app: 
+  + To extract "year" from "date" column: [right click here] (http://stackoverflow.com/questions/9749598/extract-month-and-year-from-a-zooyearmon-object)
+  + State FIPS data to convert "state" column to full state names: [right click here]
+(https://cran.r-project.org/web/packages/noncensus/noncensus.pdf)
+
+## Analyze Your Data!
+* Now that your data has been uploaded, let's head over to the "Analysis" tab. 
+* The interface for this section is the same as the tutorial with foods, only now you can visualize, create and download maps and graphs for your own data! 
+  + Note that the per-capita function will now use population data based off the years you select.
+
+
+## About The Authors
+* Rishi is a ScM student in Biostatistics. He recently graduated from Amherst College and is unsure about what he wants to do after getting his Masters. Rishi has research experience in a diverse range of areas in public health such as MDR-TB and pregnancy, road safety and bariatric surgery.
+* Bo is a first-year Master's student in Biostatistics. She studied Math and French in college, and later became interested in using data to solve health problems. She is interested in research on air-pollution related health issues, eating disorders and cancer. She is also passionate about exploring the power of computing in statistical analysis, as well as technology in healthcare in general. In her free time, Bo likes swimming and watching old French movies.
+* Jerson is an ScM candidate in Biostatistics at Brown with hopes of entering a PhD program.His research interests lie in asthma and missing data. As a lifelong asthmatic,he hopes to be able to make contributions towards pedriatric asthma.
+* Victor is an ScM candidate in Biostatistics at Brown University.His goal is/has been to participate in HIV research to evaluate new tools to prevent the spread of the epidemic and improve the health of persons infected with HIV. He is currently participating in researches that will develop guidance and support best practices; evidence-based behavioral interventions, adherence to HIV medication, help Ministry of Health formulate policies that are in line with the ever transforming challenges of HIV especially in developing countries.
+
+## Thanks For Using Statewide!
+
+
+

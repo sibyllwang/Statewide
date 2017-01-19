@@ -1,0 +1,992 @@
+"","name","date","manner_of_death","armed","age","gender","race","city","state","signs_of_mental_illness","threat_level","flee","body_camera","year"
+"1","Tim Elliot",2015-01-02,"shot","gun",53,"M","A","Shelton","Washington","True","attack","Not fleeing","False",2015
+"2","Lewis Lee Lembke",2015-01-02,"shot","gun",47,"M","W","Aloha","Oregon","False","attack","Not fleeing","False",2015
+"3","John Paul Quintero",2015-01-03,"shot and Tasered","unarmed",23,"M","H","Wichita","Kansas","False","other","Not fleeing","False",2015
+"4","Matthew Hoffman",2015-01-04,"shot","toy weapon",32,"M","W","San Francisco","California","True","attack","Not fleeing","False",2015
+"5","Michael Rodriguez",2015-01-04,"shot","nail gun",39,"M","H","Evans","Colorado","False","attack","Not fleeing","False",2015
+"6","Kenneth Joe Brown",2015-01-04,"shot","gun",18,"M","W","Guthrie","Oklahoma","False","attack","Not fleeing","False",2015
+"7","Kenneth Arnold Buck",2015-01-05,"shot","gun",22,"M","H","Chandler","Arizona","False","attack","Car","False",2015
+"8","Brock Nichols",2015-01-06,"shot","gun",35,"M","W","Assaria","Kansas","False","attack","Not fleeing","False",2015
+"9","Autumn Steele",2015-01-06,"shot","unarmed",34,"F","W","Burlington","Iowa","False","other","Not fleeing","True",2015
+"10","Leslie Sapp III",2015-01-06,"shot","toy weapon",47,"M","B","Knoxville","Pennsylvania","False","attack","Not fleeing","False",2015
+"11","Patrick Wetter",2015-01-06,"shot and Tasered","knife",25,"M","W","Stockton","California","False","attack","Not fleeing","False",2015
+"12","Ron Sneed",2015-01-07,"shot","gun",31,"M","B","Freeport","Texas","False","attack","Not fleeing","False",2015
+"13","Hashim Hanif Ibn Abdul-Rasheed",2015-01-07,"shot","knife",41,"M","B","Columbus","Ohio","True","other","Not fleeing","False",2015
+"14","Nicholas Ryan Brickman",2015-01-07,"shot","gun",30,"M","W","Des Moines","Iowa","False","attack","Car","False",2015
+"15","Omarr Julian Maximillian Jackson",2015-01-07,"shot","gun",37,"M","B","New Orleans","Louisiana","False","attack","Foot","True",2015
+"16","Loren Simpson",2015-01-08,"shot","vehicle",28,"M","W","Huntley","Montana","False","undetermined","Not fleeing","False",2015
+"17","James Dudley Barker",2015-01-08,"shot","shovel",42,"M","W","Salt Lake City","Utah","False","attack","Not fleeing","True",2015
+"18","Artago Damon Howard",2015-01-08,"shot","unarmed",36,"M","B","Strong","Arkansas","False","attack","Not fleeing","False",2015
+"19","Thomas Hamby",2015-01-08,"shot","gun",49,"M","W","Syracuse","Utah","False","attack","Not fleeing","True",2015
+"20","Jimmy Foreman",2015-01-09,"shot","gun",71,"M","W","England","Arkansas","False","attack","Not fleeing","False",2015
+"21","Andy Martinez",2015-01-09,"shot","gun",33,"M","H","El Paso","Texas","False","attack","Not fleeing","False",2015
+"22","Tommy Smith",2015-01-11,"shot","gun",39,"M","W","Arcola","Illinois","True","attack","Not fleeing","False",2015
+"23","Brian  Barbosa",2015-01-11,"shot","gun",23,"M","H","South Gate","California","False","attack","Not fleeing","False",2015
+"24","Salvador Figueroa",2015-01-11,"shot and Tasered","gun",29,"M","H","North Las Vegas","Nevada","False","attack","Foot","False",2015
+"25","John Edward O'Keefe",2015-01-13,"shot","gun",34,"M","W","Albuquerque","New Mexico","False","attack","Foot","True",2015
+"26","Richard McClendon",2015-01-13,"shot","knife",43,"M","W","Jourdanton","Texas","True","other","Not fleeing","False",2015
+"27","Marcus Golden",2015-01-14,"shot","vehicle",24,"M","B","St. Paul","Minnesota","False","attack","Not fleeing","False",2015
+"28","Michael Goebel",2015-01-14,"shot","vehicle",29,"M","W","Franklin County","Missouri","False","attack","Not fleeing","False",2015
+"29","Mario Jordan",2015-01-14,"shot","gun",34,"M","B","Chesapeake","Virginia","True","attack","Not fleeing","False",2015
+"30","Talbot Schroeder",2015-01-14,"shot","knife",75,"M","W","Old Bridge","New Jersey","False","attack","Not fleeing","False",2015
+"31","Robert Edwards",2015-01-14,"shot","gun",68,"M","W","Lake Jackson","Texas","False","attack","Not fleeing","False",2015
+"32","Jeffrey R. Nielson",2015-01-14,"shot","knife",34,"M","W","Draper","Utah","False","attack","Not fleeing","True",2015
+"33","Donte Sowell",2015-01-15,"shot","gun",27,"M","B","Indianapolis","Indiana","False","attack","Foot","False",2015
+"34","Kavonda Earl Payton",2015-01-15,"shot","gun",39,"M","B","Aurora","Colorado","False","attack","Not fleeing","False",2015
+"35","Quincy Reed Reindl",2015-01-15,"shot","gun",24,"M","W","Bloomington","Minnesota","True","attack","Not fleeing","False",2015
+"36","Jose Ceja",2015-01-15,"shot","knife",36,"M","H","Fairfield","California","True","other","Not fleeing","False",2015
+"37","Nathan Massey",2015-01-15,"shot","gun",33,"M","W","Evangeline Parish","Louisiana","False","attack","Not fleeing","False",2015
+"38","Scott Hall",2015-01-16,"shot","gun",41,"M","W","Mabank","Texas","False","attack","Car","False",2015
+"39","Zaki Shinwary",2015-01-16,"shot and Tasered","knife",48,"M","O","Fremont","California","False","other","Not fleeing","False",2015
+"40","Terence Walker",2015-01-17,"shot","gun",21,"M","B","Muskogee","Oklahoma","False","attack","Foot","True",2015
+"41","Pablo Meza",2015-01-17,"shot","gun",24,"M","H","Los Angeles","California","False","attack","Not fleeing","False",2015
+"42","Daniel Brumley",2015-01-17,"shot","knife",27,"M","H","Fort Worth","Texas","False","attack","Not fleeing","False",2015
+"43","Jonathan Guillory",2015-01-18,"shot","gun",32,"M","W","Maricopa","Arizona","True","attack","Not fleeing","False",2015
+"44","Carter Castle",2015-01-18,"shot and Tasered","gun",67,"M","W","Gunlock","Kentucky","True","attack","Not fleeing","False",2015
+"45","Paul Campbell",2015-01-19,"shot","knife",49,"M","W","Weymouth","Massachusetts","False","attack","Not fleeing","False",2015
+"46","Dewayne Carr",2015-01-20,"shot","vehicle",42,"M","B","Scottsdale","Arizona","False","other","Car","False",2015
+"47","Todd Allen Hodge",2015-01-21,"shot","gun",36,"M","W","Hemet","California","False","attack","Not fleeing","False",2015
+"48","Miguel Angel de Santos-Rodriguez",2015-01-21,"shot","gun",36,"M","H","Chapeno","Texas","False","attack","Foot","False",2015
+"49","Isaac Holmes",2015-01-21,"shot","gun",19,"M","B","St. Louis","Missouri","False","attack","Not fleeing","False",2015
+"50","Andrew Toto",2015-01-21,"shot","gun",54,"M","W","Derry","New Hampshire","True","attack","Not fleeing","False",2015
+"51","Tiano Meton",2015-01-22,"shot","toy weapon",25,"M","B","Sierra Blanca","Texas","False","attack","Car","False",2015
+"52","Kristiana Coignard",2015-01-22,"shot and Tasered","knife",17,"F","W","Longview","Texas","True","other","Not fleeing","False",2015
+"53","Robert Francis Mesch",2015-01-23,"shot","gun",61,"M","W","Austin","Texas","True","attack","Not fleeing","False",2015
+"54","Demaris Turner",2015-01-23,"shot","vehicle",29,"M","B","Fort Lauderdale","Florida","False","other","Not fleeing","False",2015
+"55","Jose Antonio Espinoza Ruiz",2015-01-23,"shot","knife",56,"M","H","Levelland","Texas","False","other","Not fleeing","False",2015
+"56","Wendell King",2015-01-24,"shot","gun",40,"M","W","Fort Worth","Texas","False","attack","Not fleeing","False",2015
+"57","Daryl Myler",2015-01-24,"shot","gun",45,"M","W","Rexburg","Idaho","False","attack","Not fleeing","False",2015
+"58","Darin Hutchins",2015-01-24,"shot","knife",26,"M","B","Baltimore","Maryland","True","other","Not fleeing","False",2015
+"59","Orlando Jude Lopez",2015-01-25,"shot","gun",26,"M","H","Pueblo","Colorado","False","attack","Car","False",2015
+"60","William Campbell",2015-01-25,"shot","gun",59,"M",NA,"Winslow","New Jersey","False","attack","Not fleeing","False",2015
+"61","Jessie Hernandez",2015-01-26,"shot","vehicle",17,"F","H","Denver","Colorado","False","other","Not fleeing","False",2015
+"62","Raymond Kmetz",2015-01-26,"shot","gun",68,"M","W","New Hope","Minnesota","True","attack","Not fleeing","False",2015
+"63","Joshua Omar Garcia",2015-01-26,"shot","unarmed",24,"M","H","Tahoka","Texas","False","other","Car","False",2015
+"64","David Garcia",2015-01-26,"shot","knife",34,"M","H","Wasco","California","True","other","Not fleeing","False",2015
+"65","Nicolas Leland Tewa",2015-01-27,"shot","vehicle",26,"M","N","Phoenix","Arizona","False","other","Not fleeing","False",2015
+"66","Chris Ingram",2015-01-27,"shot","gun",29,"M","W","Morenci","Arizona","False","attack","Not fleeing","False",2015
+"67","Jermonte Fletcher",2015-01-27,"shot","gun",33,"M","B","Columbus","Ohio","False","attack","Not fleeing","False",2015
+"68","Tiffany Terry",2015-01-27,"shot","knife",39,"F","W","Omaha","Nebraska","True","attack","Not fleeing","False",2015
+"69","Alan Lance Alverson",2015-01-28,"shot","gun",45,"M","W","Sunset","Texas","False","attack","Not fleeing","False",2015
+"70","Matautu Nuu",2015-01-28,"shot and Tasered","hammer",35,"M","A","Stockton","California","True","attack","Not fleeing","False",2015
+"71","Cody Karasek",2015-01-28,"shot","gun",26,"M","W","Rosenberg","Texas","False","attack","Not fleeing","False",2015
+"72","Ralph Willis",2015-01-29,"shot","unarmed",42,"M","W","Stillwater","Oklahoma","False","other","Foot","False",2015
+"73","Alan James",2015-01-29,"shot","gun",31,"M","W","Wyoming","Michigan","True","attack","Not fleeing","False",2015
+"74","John Barry Marshall",2015-01-30,"shot","gun",48,"M","W","Billings","Montana","False","attack","Foot","False",2015
+"75","Victor Manuel Reyes",2015-01-31,"shot","gun",31,"M","H","Houston","Texas","False","attack","Not fleeing","False",2015
+"76","Edward Donnell Bright",2015-01-31,"shot and Tasered","knife",54,"M","B","Randallstown","Maryland","True","other","Not fleeing","False",2015
+"77","Jacob Haglund",2015-02-02,"shot","gun",17,"M","W","Bay City","Michigan","False","attack","Not fleeing","False",2015
+"78","David Kassick",2015-02-02,"shot","unarmed",59,"M","W","Hummelstown","Pennsylvania","False","other","Foot","False",2015
+"79","Francis Murphy Rose III",2015-02-02,"shot","gun",42,"M","W","Apple Valley","California","True","attack","Not fleeing","False",2015
+"80","Ledarius D. Williams",2015-02-03,"shot","gun",23,"M","B","St. Louis","Missouri","False","attack","Foot","False",2015
+"81","Yuvette Henderson",2015-02-03,"shot","gun",38,"F","B","Emeryville","California","False","attack","Car","False",2015
+"82","Dewayne Deshawn Ward",2015-02-03,"shot","knife",29,"M","B","Antioch","California","True","other","Not fleeing","False",2015
+"83","Anthony Purvis",2015-02-03,"shot","gun",45,"M","W","Douglas","Georgia","True","attack","Not fleeing","False",2015
+"84","Jeremy Lett",2015-02-04,"shot","unarmed",28,"M","B","Tallahassee","Florida","False","attack","Not fleeing","False",2015
+"85","Izzy Colon",2015-02-04,"shot","gun",37,"M","H","Orlando","Florida","False","attack","Not fleeing","False",2015
+"86","Salvador Muna",2015-02-04,"shot","gun",28,"M","H","Tempe","Arizona","False","attack","Car","False",2015
+"87","Joaquin Hernandez",2015-02-04,"shot","unarmed",28,"M","H","Tempe","Arizona","False","other","Not fleeing","False",2015
+"88","Jimmy Ray Robinson Jr.",2015-02-04,"shot","gun",51,"M","B","Lorena","Texas","False","attack","Car","False",2015
+"89","Markell Atkins",2015-02-04,"shot","knife",36,"M","B","Memphis","Tennessee","False","other","Not fleeing","False",2015
+"90","Paul Alfred Eugene Johnson",2015-02-05,"shot","gun",59,"M","W","Chino","California","False","other","Car","False",2015
+"91","Herbert Hill",2015-02-06,"shot","gun",25,"M","B","Oklahoma City","Oklahoma","False","attack","Not fleeing","False",2015
+"92","John  Sawyer",2015-02-07,"shot","toy weapon",26,"M","W","Calimesa","California","False","attack","Not fleeing","False",2015
+"93","James Allen",2015-02-07,"shot","gun",74,"M","B","Gastonia","North Carolina","False","attack","Not fleeing","False",2015
+"94","John Martin Whittaker",2015-02-08,"shot","gun",33,"M","W","Anchorage","Alaska","False","attack","Car","False",2015
+"95","Sawyer Flache",2015-02-08,"shot","gun",27,"M","W","Austin","Texas","False","attack","Not fleeing","False",2015
+"96","Vincent Cordaro",2015-02-08,"shot","gun",57,"M","W","New City","New York","True","attack","Not fleeing","False",2015
+"97","Joseph Paffen",2015-02-08,"shot","gun",46,"M","W","Orange County","Florida","False","attack","Not fleeing","False",2015
+"98","Larry Hostetter",2015-02-08,"shot","gun",41,"M","W","Nocona","Texas","False","attack","Not fleeing","False",2015
+"99","Kenneth Kreyssig",2015-02-09,"shot","gun",61,"M","W","Smyrna","Maine","True","undetermined","Not fleeing","False",2015
+"100","Desmond Luster",2015-02-09,"shot","gun",45,"M","B","Dallas","Texas","False","attack","Not fleeing","False",2015
+"101","Antonio Zambrano-Montes",2015-02-10,"shot and Tasered","unarmed",35,"M","H","Pasco","Washington","True","other","Foot","False",2015
+"102","Anthony Bess",2015-02-10,"shot","gun",49,"M","B","Whitehaven","Tennessee","False","attack","Not fleeing","False",2015
+"103","Brian Fritze",2015-02-10,"shot","gun",45,"M","W","New Castle","Colorado","True","attack","Car","False",2015
+"104","Phillip Watkins",2015-02-11,"shot","knife",23,"M","B","San Jose","California","True","other","Not fleeing","False",2015
+"105","Fletcher Ray Stewart",2015-02-11,"shot","toy weapon",46,"M","W","Dadeville","Alabama","True","attack","Foot","True",2015
+"106","Jonathan Larry Harden",2015-02-13,"shot","vehicle",23,"M","W","San Bernardino","California","False","attack","Car","False",2015
+"107","Andres Lara-Rodriguez",2015-02-13,"shot","gun",21,"M","H","Kansas City","Kansas","False","attack","Car","False",2015
+"108","Richard Carlin",2015-02-13,"shot","unarmed",35,"M","H","Reading","Pennsylvania","False","other","Not fleeing","False",2015
+"109","Matthew D. Belk",2015-02-13,"shot","gun",27,"M","W","McLemoresville","Tennessee","False","attack","Not fleeing","False",2015
+"110","Daniel Mejia",2015-02-13,"shot","knife",37,"M","H","San Manuel","Arizona","True","other","Not fleeing","False",2015
+"111","Jason C. Hendrix",2015-02-14,"shot","gun",16,"M","W","Essex","Maryland","True","attack","Car","False",2015
+"112","Roy Joy Day",2015-02-14,"shot","gun",51,"M","W","Laredo","Texas","False","attack","Not fleeing","False",2015
+"113","Lavall Hall",2015-02-15,"shot and Tasered","unarmed",25,"M","B","Miami Gardens","Florida","True","other","Not fleeing","False",2015
+"114","Howard Brent Means Jr.",2015-02-15,"shot","gun",34,"M","W","Iuka","Mississippi","False","attack","Foot","False",2015
+"115","Bruce Steward",2015-02-15,"shot","hatchet",34,"M","W","Colton","Oregon","True","other","Not fleeing","False",2015
+"116","Lawrence Caldwell",2015-02-16,"shot","gun",56,"M","W","Marana","Arizona","False","attack","Not fleeing","False",2015
+"117","Michael K. Casper",2015-02-16,"shot","gun",26,"M","W","Boise","Idaho","False","attack","Not fleeing","False",2015
+"118","Cody Evans",2015-02-16,"shot","toy weapon",24,"M","W","Provo","Utah","True","attack","Not fleeing","False",2015
+"119","Betty Sexton",2015-02-17,"shot","gun",43,"F","W","Gaston County","North Carolina","False","attack","Not fleeing","False",2015
+"120","Michael Ireland",2015-02-17,"shot","unarmed",31,"M","W","Springfield","Missouri","False","other","Foot","False",2015
+"121","Matthew Lundy",2015-02-17,"shot","gun",32,"M","W","Eaton Rapids Township","Michigan","False","attack","Not fleeing","False",2015
+"122","Douglas Sparks",2015-02-17,"shot","toy weapon",30,"M","W","Tewksbury","Massachusetts","False","attack","Foot","False",2015
+"123","Pedro Juan Saldivar",2015-02-17,"shot","vehicle",50,"M","H","Del Rio","Texas","False","other","Not fleeing","False",2015
+"124","Janisha Fonville",2015-02-18,"shot","undetermined",20,"F","B","Charlotte","North Carolina","True","other","Not fleeing","False",2015
+"125","Alejandro Salazar",2015-02-20,"shot","gun",NA,"M","H","Houston","Texas","False","attack","Car","False",2015
+"126","Ruben Villalpando",2015-02-20,"shot","unarmed",31,"M","H","Euless","Texas","False","other","Not fleeing","False",2015
+"127","Stanley Lamar Grant",2015-02-20,"shot","gun",38,"M","B","Homewood","Alabama","False","attack","Not fleeing","False",2015
+"128","Douglas Harris",2015-02-20,"shot","gun",77,"M","B","Birmingham","Alabama","True","attack","Not fleeing","False",2015
+"129","Jason Moncrief Carter",2015-02-21,"shot","gun",41,"M","W","Ruidoso","New Mexico","False","attack","Not fleeing","False",2015
+"130","Kent Norman",2015-02-21,"shot","knife",51,"M","W","Indianapolis","Indiana","False","attack","Not fleeing","False",2015
+"131","Bradford Leonard",2015-02-22,"shot","gun",50,"M","W","Palm Bay","Florida","False","attack","Not fleeing","False",2015
+"132","Jerome Nichols",2015-02-23,"shot and Tasered","knife",42,"M","W","Allentown","Pennsylvania","False","attack","Car","False",2015
+"133","Daniel Elrod",2015-02-23,"shot and Tasered","unarmed",39,"M","W","Omaha","Nebraska","False","other","Not fleeing","False",2015
+"134","Robert Kohl",2015-02-23,"shot","gun",47,"M","W","Denham Springs","Louisiana","True","attack","Not fleeing","False",2015
+"135","Michael Wayne Smashey",2015-02-23,"shot","knife",37,"M","W","Powder Springs","Georgia","False","other","Not fleeing","False",2015
+"136","Anthony Giaquinta",2015-02-23,"shot","gun",41,"M","W","Clarkesville","Georgia","False","attack","Foot","False",2015
+"137","A'Donte Washington",2015-02-23,"shot","gun",16,"M","B","Millbrook","Alabama","False","attack","Not fleeing","False",2015
+"138","Joseph Biegert",2015-02-24,"shot and Tasered","knife",30,"M","W","Green Bay","Wisconsin","True","attack","Not fleeing","False",2015
+"139","Glenn Lewis",2015-02-25,"shot","vehicle",27,"M","B","Oklahoma City","Oklahoma","False","other","Car","False",2015
+"140","Francis Spivey",2015-02-25,"shot","gun",43,"M","W","Las Vegas","Nevada","True","attack","Not fleeing","False",2015
+"141","Alexander Phillip Long",2015-02-26,"shot and Tasered","unarmed",31,"M","W","Terre Haute","Indiana","False","other","Not fleeing","False",2015
+"142","David Cuevas",2015-02-26,"shot","gun",42,"M","H","Lakeland","Florida","False","attack","Foot","False",2015
+"143","Amilcar Perez-Lopez",2015-02-26,"shot","knife",21,"M","H","San Francisco","California","False","other","Not fleeing","False",2015
+"144","Rodney Biggs",2015-02-26,"shot","unarmed",49,"M","W","Gulfport","Mississippi","False","other","Not fleeing","False",2015
+"145","Crystal Lee Miley Harry",2015-02-26,"shot","gun",34,"F","W","Sylvester","Georgia","False","attack","Car","False",2015
+"146","Ernesto Javiar Canepa Diaz",2015-02-27,"shot","unarmed",27,"M","H","Santa Ana","California","False","undetermined","Not fleeing","False",2015
+"147","Chazsten Freeman",2015-02-28,"shot","gun",24,"M","W","Pelzer","South Carolina","False","attack","Not fleeing","False",2015
+"148","Deven Guilford",2015-02-28,"shot and Tasered","unarmed",17,"M","W","Roxand Township","Michigan","False","attack","Not fleeing","True",2015
+"149","Thomas Allen",2015-02-28,"shot","unarmed",34,"M","B","St Louis","Missouri","False","other","Car","False",2015
+"150","Jessica Uribe",2015-02-28,"shot","knife",28,"F","H","Tucson","Arizona","False","other","Not fleeing","False",2015
+"151","Cornelius J. Parker",2015-02-28,"shot","gun",28,"M","B","Columbia","Missouri","False","attack","Car","False",2015
+"152","Ian Sherrod",2015-02-28,"shot","gun",40,"M","B","Tarboro","North Carolina","True","attack","Car","False",2015
+"153","Stephanie Hill",2015-02-28,"shot","gun",37,"F","W","La Paz County","Arizona","False","attack","Car","False",2015
+"154","Donald Lewis Matkins",2015-03-01,"shot","gun",49,"M","W","Barton","Mississippi","False","attack","Not fleeing","False",2015
+"155","Charly Leundeu Keunang",2015-03-01,"shot and Tasered","unarmed",43,"M","B","Los Angeles","California","True","attack","Not fleeing","True",2015
+"156","Hung Trieu",2015-03-01,"shot","gun",35,"M","A","Houston","Texas","False","attack","Not fleeing","False",2015
+"157","Shaquille Barrow",2015-03-02,"shot","gun",20,"M","B","Joilet","Illinois","False","other","Foot","False",2015
+"158","Fednel Rhinvil",2015-03-03,"shot","gun",25,"M","B","Salisbury","Maryland","False","attack","Not fleeing","False",2015
+"159","Matthew Metz",2015-03-03,"shot","knife",25,"M","W","Tempe","Arizona","False","attack","Not fleeing","False",2015
+"160","Derek Cruice",2015-03-04,"shot","unarmed",26,"M","W","Deltona","Florida","False","other","Not fleeing","False",2015
+"161","Carl Lao",2015-03-04,"shot","gun",28,"M","A","Stockton","California","False","attack","Not fleeing","False",2015
+"162","Tyrone Ryerson Lawrence",2015-03-05,"shot","knife",45,"M","B","Milwaukee","Wisconsin","True","other","Not fleeing","False",2015
+"163","Sergio Alexander Navas",2015-03-05,"shot","unarmed",36,"M","H","Burbank","California","False","other","Car","False",2015
+"164","Tyson Hubbard",2015-03-05,"shot","gun",34,"M","W","Lincoln","Nebraska","False","attack","Not fleeing","False",2015
+"165","Naeschylus  Vinzant",2015-03-06,"shot","unarmed",37,"M","B","Aurora","Colorado","False","undetermined","Foot","False",2015
+"166","Andrew Anthony Williams",2015-03-06,"shot","vehicle",48,"M","B","Putnam Hall","Florida","False","other","Not fleeing","False",2015
+"167","Tony Robinson",2015-03-06,"shot","unarmed",19,"M","B","Madison","Wisconsin","False","attack","Foot","False",2015
+"168","Adam Reinhart",2015-03-07,"shot","gun",29,"M","W","Phoenix","Arizona","False","attack","Not fleeing","False",2015
+"169","Aurelio Duarte",2015-03-08,"shot","gun",40,"M","H","Oklahoma City","Oklahoma","False","attack","Not fleeing","False",2015
+"170","Michael McKillop",2015-03-08,"shot","vehicle",35,"M","W","Claymont","Delaware","False","attack","Car","False",2015
+"171","Monique Jenee Deckard",2015-03-08,"shot","knife",43,"F","B","Anaheim","California","True","other","Not fleeing","True",2015
+"172","Lester Brown",2015-03-09,"shot","gun",58,"M","W","Brevard","North Carolina","False","attack","Not fleeing","False",2015
+"173","James Brent Damon",2015-03-09,"shot","gun",46,"M","W","Dinosaur","Colorado","False","attack","Not fleeing","False",2015
+"174","Cedrick Lamont Bishop",2015-03-09,"shot","gun",30,"M","B","Cocoa","Florida","False","attack","Not fleeing","False",2015
+"175","Anthony Hill",2015-03-09,"shot","unarmed",27,"M","B","Atlanta","Georgia","True","other","Not fleeing","False",2015
+"176","Jamie Croom",2015-03-10,"shot","gun",31,"M","B","Baton Rouge","Louisiana","False","attack","Not fleeing","False",2015
+"177","Christopher Mitchell",2015-03-10,"shot","knife",23,"M","W","Port Wentworth","Georgia","False","attack","Not fleeing","True",2015
+"178","Edixon  Franco",2015-03-10,"shot","sword",37,"M","H","Ontario","California","True","other","Car","False",2015
+"179","Theodore Johnson",2015-03-10,"shot","gun",64,"M","B","Cleveland","Ohio","False","attack","Not fleeing","True",2015
+"180","James Greenwell",2015-03-11,"shot","gun",31,"M","W","Memphis","Tennessee","True","attack","Not fleeing","False",2015
+"181","Benito Osorio",2015-03-11,"shot","gun",39,"M","H","Santa Ana","California","False","attack","Not fleeing","False",2015
+"182","Ryan Dean Burgess",2015-03-11,"shot","toy weapon",31,"M","W","Kingman","Arizona","True","attack","Not fleeing","False",2015
+"183","Aaron Valdez",2015-03-11,"shot","vehicle",25,"M","H","Los Angeles","California","False","other","Not fleeing","False",2015
+"184","Gilbert Fleury",2015-03-11,"shot","gun",54,"M","W","Bay Minette","Alabama","False","attack","Not fleeing","False",2015
+"185","William Russell  Smith",2015-03-11,"shot","gun",53,"M","W","Hoover","Alabama","True","attack","Not fleeing","False",2015
+"186","Terry Garnett Jr.",2015-03-11,"shot","vehicle",37,"M","B","Elkton","Maryland","False","other","Not fleeing","False",2015
+"187","Bobby Gross",2015-03-12,"shot","unarmed",35,"M","B","Washington","District Of Columbia","True","other","Not fleeing","False",2015
+"188","Fred  Liggett",2015-03-13,"shot","gun",59,"M","W","Kansas City","Missouri","False","attack","Not fleeing","False",2015
+"189","Andrew Driver",2015-03-13,"shot","knife",36,"M","W","Fontana","California","False","attack","Not fleeing","False",2015
+"190","Antonio Perez",2015-03-13,"shot","unarmed",32,"M","H","Walnut Creek","California","False","other","Foot","False",2015
+"191","James Richard Jimenez",2015-03-13,"shot","gun",41,"M","H","Napa","California","False","other","Other","False",2015
+"192","Richard Castilleja",2015-03-14,"shot","gun",29,"M","H","San Antonio","Texas","True","attack","Not fleeing","False",2015
+"193","Clifton Reintzel",2015-03-14,"shot","knife",53,"M","W","Follansbee","West Virginia","False","other","Not fleeing","False",2015
+"194","Aaron Siler",2015-03-14,"shot","gun",26,"M","W","Kenosha","Wisconsin","False","attack","Car","False",2015
+"195","Troy Ray Boyd",2015-03-15,"shot","machete",27,"M","W","Ruth","Mississippi","False","other","Not fleeing","False",2015
+"196","Justin Tolkinen",2015-03-16,"shot","gun",28,"M","W","St. Paul","Minnesota","True","attack","Not fleeing","False",2015
+"197","William Dean Poole",2015-03-16,"shot","gun",52,"M","W","Gastonia","North Carolina","True","attack","Not fleeing","False",2015
+"198","Eugene Smith",2015-03-17,"shot","gun",20,"M","W","Onalaska","Texas","True","attack","Not fleeing","False",2015
+"199","Roberto Leon",2015-03-17,"shot","unarmed",22,"M","H","Sacramento","California","False","undetermined","Car","False",2015
+"200","Andrew Charles Shipley",2015-03-17,"shot","gun",49,"M","W","Medford","Oregon","True","attack","Not fleeing","False",2015
+"201","Declan Owen",2015-03-17,"shot","gun",24,"M","W","Dublin","North Carolina","False","attack","Foot","False",2015
+"202","Alice Brown",2015-03-17,"shot","vehicle",24,"F","W","San Francisco","California","True","other","Not fleeing","False",2015
+"203","Jeff Alexander",2015-03-18,"shot","knife",47,"M","W","Bakersfield","California","False","other","Not fleeing","False",2015
+"204","Kaylene Stone",2015-03-18,"shot","gun",49,"F","W","Glendale","Arizona","False","attack","Not fleeing","False",2015
+"205","Garland Lee Wingo",2015-03-18,"shot","gun",64,"M","W","Tallahassee","Florida","False","attack","Not fleeing","False",2015
+"206","Kendre Alston",2015-03-19,"shot","gun",16,"M","B","Jacksonville","Florida","False","attack","Car","False",2015
+"207","Jamison  Childress",2015-03-19,"shot","unarmed",20,"M","W","Sumas","Washington","True","attack","Not fleeing","False",2015
+"208","Robert Burdge",2015-03-19,"shot","gun",36,"M","W","Bakersfield","California","False","attack","Not fleeing","False",2015
+"209","Shane Watkins",2015-03-19,"shot","box cutter",39,"M","W","Lawrence County","Alabama","True","other","Not fleeing","True",2015
+"210","Brandon Jones",2015-03-19,"shot","unarmed",18,"M","B","Cleveland","Ohio","False","attack","Not fleeing","False",2015
+"211","Brandon Rapp",2015-03-19,"shot","gun",31,"M","W","Middleton","Idaho","False","attack","Not fleeing","True",2015
+"212","Justin Fowler",2015-03-20,"shot","gun",24,"M","N","Red Valley","Arizona","False","attack","Car","False",2015
+"213","Richard White",2015-03-20,"shot","machete",63,"M","B","New Orleans","Louisiana","True","attack","Not fleeing","False",2015
+"214","Tyrel Vick",2015-03-20,"shot","gun",34,"M","W","Coal County","Oklahoma","False","attack","Not fleeing","False",2015
+"215","James Ellis",2015-03-21,"shot","gun",44,"M","W","Clarendon","New York","False","attack","Car","False",2015
+"216","Gary Page",2015-03-21,"shot","gun",60,"M","W","Harmony","Indiana","True","attack","Not fleeing","False",2015
+"217","Jason Smith",2015-03-21,"shot","gun",42,"M","W","Columbus","Ohio","False","attack","Not fleeing","False",2015
+"218","Enoch Gaver",2015-03-21,"shot","gun",21,"M","W","Cottonwood","Arizona","False","attack","Not fleeing","False",2015
+"219","Phillip Conley",2015-03-22,"shot","knife",37,"M","W","Vallejo","California","True","other","Not fleeing","False",2015
+"220","Christopher Ryan Healy",2015-03-22,"shot and Tasered","knife",36,"M","W","Portland","Oregon","True","other","Foot","False",2015
+"221","Denzel Brown",2015-03-22,"shot and Tasered","undetermined",21,"M","B","Islip","New York","False","attack","Car","False",2015
+"222","Devin Gates",2015-03-23,"shot","gun",24,"M","B","Santa Clara","California","False","attack","Not fleeing","False",2015
+"223","Stephen Snyder",2015-03-24,"shot","gun",38,"M","W","Fond du Lac","Wisconsin","False","attack","Not fleeing","False",2015
+"224","Walter J. Brown III",2015-03-24,"shot","gun",29,"M","B","Portsmouth","Virginia","True","attack","Car","False",2015
+"225","Scott Dunham",2015-03-24,"shot","gun",57,"M","W","San Jose","California","True","attack","Not fleeing","False",2015
+"226","Nicholas Thomas",2015-03-25,"shot","undetermined",23,"M","B","Smyrna","Georgia","False","other","Car","True",2015
+"227","Jeremy Lorenza Kelly",2015-03-25,"shot","gun",27,"M","B","Johnsonville","South Carolina","False","attack","Foot","False",2015
+"228","Victor Terrazas",2015-03-25,"shot","gun",28,"M","H","South Los Angeles","California","False","attack","Foot","False",2015
+"229","Joseph Tassinari",2015-03-25,"shot and Tasered","gun",63,"M","W","Glendale","Arizona","True","other","Not fleeing","False",2015
+"230","Deanne Choate",2015-03-26,"shot","gun",53,"F","W","Gardner","Kansas","False","attack","Not fleeing","False",2015
+"231","Adrian Solis",2015-03-26,"shot","knife",35,"M","H","Wilmington","California","True","other","Not fleeing","False",2015
+"232","Gary Kendrick",2015-03-27,"shot","gun",56,"M","W","Encinitas","California","True","attack","Not fleeing","False",2015
+"233","Jamalis Hall",2015-03-27,"shot","knife",39,"M","B","Fort Pierce","Florida","False","other","Not fleeing","False",2015
+"234","Adrian Hernandez",2015-03-27,"shot","gun",23,"M","H","Bakersfield","California","False","attack","Car","False",2015
+"235","Neil Seifert",2015-03-27,"shot","gun",40,"M","W","Webster","Massachusetts","False","attack","Foot","False",2015
+"236","Megan Hockaday",2015-03-27,"shot","knife",26,"F","B","Oxnard","California","False","other","Not fleeing","False",2015
+"237","Harvey Oates",2015-03-27,"shot","gun",42,"M","W","Fort Ashby","West Virginia","False","attack","Car","False",2015
+"238","Angelo West",2015-03-27,"shot","gun",41,"M","B","Boston","Massachusetts","False","attack","Not fleeing","False",2015
+"239","Robert Rooker",2015-03-29,"shot","vehicle",26,"M","W","Jasper","Ohio","False","attack","Car","False",2015
+"240","Byron Herbert",2015-03-29,"shot","gun",29,"M","B","Elizabethtown","Kentucky","False","attack","Not fleeing","False",2015
+"241","Brian Babb",2015-03-30,"shot","gun",49,"M","W","Eugene","Oregon","True","attack","Not fleeing","False",2015
+"242","John Marcell Allen",2015-03-30,"shot","gun",54,"M",NA,"Boulder City","Nevada","False","attack","Not fleeing","False",2015
+"243","Jeremy Anderson",2015-03-31,"shot","gun",36,"M","W","Carollwood","Florida","False","attack","Not fleeing","False",2015
+"244","Benjamin Quezada",2015-03-31,"shot","toy weapon",21,"M","H","Baytown","Texas","False","attack","Not fleeing","False",2015
+"245","Mya Hall",2015-03-31,"shot","vehicle",27,"F","B","Fort Meade","Maryland","False","other","Car","False",2015
+"246","Robert Washington",2015-04-01,"shot","gun",37,"M","B","Hawthorne","California","False","attack","Not fleeing","False",2015
+"247","Shawn Clyde",2015-04-01,"shot","knife",36,"M","W","Hamilton","New Jersey","False","attack","Not fleeing","False",2015
+"248","Darrin Langford",2015-04-02,"shot","gun",32,"M","B","Rock Island","Illinois","False","attack","Foot","False",2015
+"249","Donald Hicks",2015-04-02,"shot and Tasered","gun",63,"M","W","Metropolis","Illinois","True","attack","Not fleeing","False",2015
+"250","Eric Harris",2015-04-02,"shot","unarmed",44,"M","B","Tulsa","Oklahoma","False","other","Not fleeing","False",2015
+"251","Aaron Rutledge",2015-04-02,"shot","gun",27,"M","W","Pineville","Louisiana","True","attack","Not fleeing","False",2015
+"252","Christopher Prevatt",2015-04-03,"shot","knife",38,"M","W","Winchester","Virginia","False","other","Not fleeing","True",2015
+"253","Justus Howell",2015-04-04,"shot","gun",17,"M","B","Zion","Illinois","False","attack","Foot","False",2015
+"254","Walter Scott",2015-04-04,"shot and Tasered","unarmed",50,"M","B","North Charleston","South Carolina","False","other","Foot","False",2015
+"255","Paul Anderson",2015-04-04,"shot","gun",31,"M","B","Orange","California","False","attack","Not fleeing","True",2015
+"256","Ethan Noll",2015-04-04,"shot","gun",34,"M","W","Edgewood","New Mexico","True","attack","Car","False",2015
+"257","Ken Cockerel",2015-04-05,"shot","knife",51,"M","W","Phoenix","Arizona","True","other","Not fleeing","False",2015
+"258","Richard Hanna",2015-04-05,"shot","gun",56,"M","W","Tehachapi","California","False","attack","Not fleeing","False",2015
+"259","Alexander Myers",2015-04-06,"shot","gun",23,"M","W","Indianapolis","Indiana","True","attack","Not fleeing","False",2015
+"260","Desmond Willis",2015-04-06,"shot","gun",25,"M","B","Harvey","Louisiana","False","attack","Foot","False",2015
+"261","Tyrell J. Larsen",2015-04-06,"shot","gun",31,"M","W","Jefferson County","Idaho","False","attack","Car","False",2015
+"262","Erick Rose",2015-04-07,"shot","gun",32,"M","W","Pottawatomie County","Oklahoma","False","attack","Car","False",2015
+"263","Douglas Faith",2015-04-08,"shot","gun",60,"M","W","San Antonio","Texas","False","attack","Car","False",2015
+"264","Dexter Pernell Bethea",2015-04-08,"shot","vehicle",42,"M","B","Valdosta","Georgia","False","attack","Car","False",2015
+"265","Roberto Rodriguez",2015-04-08,"shot","gun",39,"M","H","Los Angeles","California","False","attack","Foot","False",2015
+"266","Joseph Jeremy Weber",2015-04-08,"shot","knife",28,"M","A","Sunnyvale","California","True","other","Not fleeing","False",2015
+"267","Mark Smith",2015-04-09,"shot and Tasered","vehicle",54,"M",NA,"Kellyville","Oklahoma","False","attack","Other","False",2015
+"268","Gordon Kimbrell",2015-04-09,"shot","sword",22,"M","W","Navarre","Florida","False","attack","Not fleeing","False",2015
+"269","Don Smith",2015-04-09,"shot","gun",29,"M","B","Monon","Indiana","False","attack","Car","False",2015
+"270","Jess Leipold",2015-04-09,"shot","gun",31,"M","W","Straban Township","Pennsylvania","True","attack","Not fleeing","False",2015
+"271","Phillip Burgess",2015-04-09,"shot","gun",28,"M","W","Boiling Springs","South Carolina","False","attack","Not fleeing","False",2015
+"272","Angel Cresencio Corona",2015-04-10,"shot","knife",21,"M","H","Corning","California","False","attack","Not fleeing","False",2015
+"273","Richard Reed",2015-04-10,"shot","gun",38,"M","W","Topeka","Kansas","False","attack","Car","False",2015
+"274","Donald Allen",2015-04-11,"shot","gun",66,"M","W","Sand Springs","Oklahoma","True","attack","Not fleeing","True",2015
+"275","Mack Long",2015-04-12,"shot","gun",36,"M","B","Indianapolis","Indiana","False","attack","Foot","True",2015
+"276","Richard Dale Weaver",2015-04-12,"shot","machete",83,"M","W","Oklahoma City","Oklahoma","True","other","Not fleeing","False",2015
+"277","Jason Lee Evans",2015-04-12,"shot","gun",32,"M","W","Salemburg","North Carolina","True","attack","Car","False",2015
+"278","Isaac Jimenez",2015-04-13,"shot","gun",27,"M","H","Alton","Illinois","False","attack","Not fleeing","False",2015
+"279","Colby Robinson",2015-04-14,"shot","undetermined",26,"M","B","DeSoto","Texas","False","undetermined","Foot","False",2015
+"280","Christopher Grant Finley",2015-04-14,"shot","machete",31,"M","W","Jonesboro","Arkansas","True","attack","Not fleeing","False",2015
+"281","Tevin Barkley",2015-04-15,"shot","gun",22,"M","B","Miami","Florida","False","undetermined","Foot","False",2015
+"282","Dante Noble",2015-04-15,"shot","knife",41,"M","B","Spartanburg","South Carolina","False","attack","Not fleeing","False",2015
+"283","Frank Shephard",2015-04-15,"shot","unarmed",41,"M","B","Houston","Texas","False","other","Car","False",2015
+"284","Mark W. Adair",2015-04-15,"shot","toy weapon",51,"M","W","Columbia","Missouri","False","attack","Car","True",2015
+"285","Stanley Watson",2015-04-15,"shot","gun",72,"M","W","Cañon City","Colorado","True","attack","Not fleeing","False",2015
+"286","Ernesto Flores",2015-04-15,"shot","toy weapon",52,"M","H","Montclair","California","True","attack","Not fleeing","False",2015
+"287","Rodolfo Velazquez",2015-04-16,"shot","knife",47,"M","H","Shafter","California","False","other","Not fleeing","False",2015
+"288","Jeffrey Kemp",2015-04-17,"shot","gun",18,"M","B","Chicago","Illinois","False","attack","Foot","False",2015
+"289","Elias Cavazos",2015-04-17,"shot","gun",29,"M","H","Hemet","California","False","attack","Not fleeing","False",2015
+"290","Thaddeus McCarroll",2015-04-17,"shot","knife",23,"M","B","Jennings","Missouri","True","other","Not fleeing","True",2015
+"291","Erik Tellez",2015-04-18,"shot","gun",43,"M","H","Phoenix","Arizona","True","attack","Not fleeing","False",2015
+"292","Grover Sapp",2015-04-18,"shot","gun",45,"M","W","Panama City","Florida","False","attack","Not fleeing","False",2015
+"293","Michael Foster",2015-04-19,"shot","gun",40,"M","W","Wilmore","Kentucky","True","attack","Not fleeing","False",2015
+"294","Dana Hlavinka",2015-04-19,"shot","knife",44,"M","W","Sidney","Nebraska","False","attack","Not fleeing","False",2015
+"295","Santos Cortez Hernandez",2015-04-20,"shot","gun",25,"M","H","Mission","Texas","False","other","Not fleeing","False",2015
+"296","Daniel Wolfe",2015-04-21,"shot","vehicle",35,"M","B","Trenton","New Jersey","False","attack","Not fleeing","False",2015
+"297","Daniel Covarrubias",2015-04-21,"shot","unarmed",37,"M","N","Lakewood","Washington","True","other","Foot","False",2015
+"298","Kimber Key",2015-04-21,"shot","knife",59,"M","W","Irmo","South Carolina","True","other","Not fleeing","False",2015
+"299","Luis Martinez",2015-04-21,"shot","knife",35,"M","H","Los Angeles","California","True","other","Not fleeing","False",2015
+"300","William Chapman",2015-04-22,"shot","unarmed",18,"M","B","Portsmouth","Virginia","False","undetermined","Not fleeing","False",2015
+"301","Carlos Saavedra Ramirez",2015-04-22,"shot","knife",51,"M","H","Bisbee","Arizona","False","other","Not fleeing","False",2015
+"302","Jonathan Efraim",2015-04-22,"shot","gun",30,"M","W","Queens","New York","True","attack","Foot","False",2015
+"303","Reginald McGregor",2015-04-22,"shot","gun",31,"M","B","Fort Worth","Texas","False","attack","Foot","False",2015
+"304","Lue Vang",2015-04-22,"shot","gun",39,"M","A","Eldorado Springs","Colorado","False","attack","Not fleeing","False",2015
+"305","Andrew Valadez",2015-04-23,"shot","gun",26,"M","W","Sylmar","California","True","attack","Not fleeing","False",2015
+"306","Joseph Potts",2015-04-23,"shot","gun",51,"M","W","Rufe","Oklahoma","False","attack","Not fleeing","False",2015
+"307","Hector Morejon",2015-04-23,"shot","unarmed",19,"M","H","Long Beach","California","False","other","Not fleeing","False",2015
+"308","Karen Janks",2015-04-24,"shot","vehicle",46,"F","W","Windsor","California","False","attack","Car","False",2015
+"309","Mark Cecil Hawkins",2015-04-24,"shot","gun",49,"M","W","Eugene","Oregon","False","attack","Not fleeing","False",2015
+"310","Gary Timmie  Collins",2015-04-24,"shot","gun",63,"M","W","Miami","Oklahoma","False","attack","Car","False",2015
+"311","Todd Jamal Dye",2015-04-24,"shot","gun",20,"M","B","Trinidad","Colorado","False","attack","Foot","True",2015
+"312","Brandon Lawrence",2015-04-25,"shot","machete",25,"M","W","Victoria","Texas","True","other","Not fleeing","True",2015
+"313","David Felix",2015-04-25,"shot","unarmed",24,"M","B","New York","New York","True","attack","Foot","False",2015
+"314","Daniel Davis",2015-04-25,"shot","knife",58,"M","W","Clermont","Florida","True","other","Not fleeing","False",2015
+"315","Billy Joe Patrick",2015-04-26,"shot","unarmed",29,"M","W","Bunch","Oklahoma","False","attack","Not fleeing","False",2015
+"316","Albert Hanson",2015-04-26,"shot","gun",76,"M","W","Kings County","California","False","attack","Not fleeing","False",2015
+"317","Dean Genova",2015-04-26,"shot","gun",45,"M","W","Fountain Valley","California","False","attack","Not fleeing","False",2015
+"318","Terrance  Kellom",2015-04-27,"shot","hammer",20,"M","B","Detroit","Michigan","False","other","Not fleeing","False",2015
+"319","David Parker",2015-04-28,"shot","gun",58,"M","W","Mansfield","Ohio","False","attack","Not fleeing","False",2015
+"320","Jared Johnson",2015-04-28,"shot","gun",21,"M","B","New Orleans","Louisiana","False","attack","Not fleeing","True",2015
+"321","Joshua Green",2015-04-28,"shot","gun",27,"M","W","Marion","Illinois","True","attack","Not fleeing","False",2015
+"322","Andrew Jackson",2015-04-29,"shot","knife",26,"M","W","Chickasha","Oklahoma","False","other","Foot","False",2015
+"323","Joshua Deysie",2015-04-29,"shot","gun",33,"M","H","Mesa","Arizona","True","attack","Not fleeing","False",2015
+"324","Luis Chavez-Diaz",2015-04-29,"shot","gun",27,"M","H","Elk Grove","California","False","attack","Not fleeing","False",2015
+"325","Alexia Christian",2015-04-29,"shot","gun",25,"F","B","Atlanta","Georgia","False","attack","Not fleeing","False",2015
+"326","Jeffrey Adkins",2015-04-29,"shot","gun",53,"M","B","Emporia","Virginia","True","attack","Not fleeing","False",2015
+"327","John Acree",2015-04-29,"shot","gun",53,"M","W","Nashville","Tennessee","True","attack","Not fleeing","False",2015
+"328","Fridoon Zalbeg Nehad",2015-04-30,"shot","unarmed",42,"M","O","San Diego","California","True","other","Not fleeing","True",2015
+"329","Erick Emmanuel Sanchez",2015-04-30,"shot and Tasered","metal object",22,"M","H","El Paso","Texas","False","other","Not fleeing","False",2015
+"330","Kenneth Mathena",2015-05-02,"shot","gun",52,"M","W","Smyrna","Delaware","False","attack","Not fleeing","True",2015
+"331","Kevin Vance Norton",2015-05-03,"shot","gun",36,"M","W","Roosevelt","Utah","True","attack","Not fleeing","True",2015
+"332","Elton Simpson",2015-05-03,"shot","gun",30,"M","B","Garland","Texas","False","attack","Not fleeing","False",2015
+"333","Nadir Soofi",2015-05-03,"shot","gun",34,"M","O","Garland","Texas","False","attack","Not fleeing","False",2015
+"334","Billy Grimm",2015-05-03,"shot","gun",44,"M","H","Albuquerque","New Mexico","False","attack","Not fleeing","False",2015
+"335","Michael Asher",2015-05-03,"shot","gun",53,"M","W","Chavies","Kentucky","False","attack","Not fleeing","False",2015
+"336","Roark Cook",2015-05-04,"shot","toy weapon",36,"M","W","Kennewick","Washington","True","attack","Not fleeing","False",2015
+"337","Brendon Glenn",2015-05-05,"shot","unarmed",29,"M","B","Venice","California","False","attack","Not fleeing","True",2015
+"338","Thong Kien Ma",2015-05-05,"shot","knife",32,"M","A","South El Monte","California","False","attack","Not fleeing","False",2015
+"339","Robert A. Frost",2015-05-05,"shot","gun",46,"M","W","Pulaski","Virginia","True","attack","Not fleeing","False",2015
+"340","David William Johnson",2015-05-06,"shot","gun",18,"M","W","Wake Forest","North Carolina","False","attack","Car","False",2015
+"341","Joseph Roy",2015-05-07,"shot","knife",72,"M",NA,"Lawrenceville","Georgia","True","other","Not fleeing","False",2015
+"342","Michael Murphy",2015-05-07,"shot","knife",38,"M","W","Beacon","New York","False","other","Car","False",2015
+"343","Nephi Arriguin",2015-05-07,"shot","vehicle",21,"M","B","Cerritos","California","False","attack","Car","False",2015
+"344","Shaun Johnson",2015-05-08,"shot","sword",35,"M","W","Kearny","Arizona","False","attack","Not fleeing","False",2015
+"345","David Schwalm",2015-05-08,"shot","gun",58,"M","W","Constantia","New York","True","attack","Not fleeing","False",2015
+"346","Dedrick Marshall",2015-05-08,"shot","gun",48,"M","B","Harvey","Louisiana","False","attack","Not fleeing","False",2015
+"347","Sam Holmes",2015-05-08,"shot","vehicle",31,"M","B","Fridley","Minnesota","False","attack","Car","False",2015
+"348","Stephen  Cunningham",2015-05-10,"shot","gun",47,"M","W","Tacoma","Washington","False","attack","Not fleeing","False",2015
+"349","Lionel Lorenzo Young",2015-05-10,"shot","vehicle",34,"M","B","Landover","Maryland","False","other","Car","False",2015
+"350","Kelvin Goldston",2015-05-11,"shot","vehicle",30,"M","B","Fort Worth","Texas","False","attack","Car","False",2015
+"351","Justin Way",2015-05-11,"shot","machete",28,"M","W","St. Augustine","Florida","True","other","Not fleeing","False",2015
+"352","D'Angelo Stallworth",2015-05-12,"shot","gun",28,"M","B","Jacksonville","Florida","False","other","Foot","False",2015
+"353","Bruce Zalonka",2015-05-12,"shot and Tasered","gun",46,"M","O","Honolulu","Hawaii","False","attack","Not fleeing","False",2015
+"354","Alec Ouzounian",2015-05-12,"shot","undetermined",40,"M","W","Rancho Santa Margarita","California","True","other","Not fleeing","False",2015
+"355","Sean Michael Pelletier",2015-05-14,"shot","gun",37,"M","W","Portage","Michigan","True","attack","Car","False",2015
+"356","Cary Martin",2015-05-14,"shot","gun",53,"M","W","St. Augustine","Florida","True","attack","Not fleeing","False",2015
+"357","Mark Farrar",2015-05-15,"shot","gun",41,"M","W","Rockford","Illinois","True","attack","Not fleeing","False",2015
+"358","Matt Coates",2015-05-15,"shot","toy weapon",42,"M","W","Sacramento","California","True","attack","Not fleeing","False",2015
+"359","Ronell Wade",2015-05-16,"shot","gun",45,"M","B","Harvey","Illinois","False","attack","Foot","False",2015
+"360","Dennis  Fiel",2015-05-17,"shot","gun",34,"M","W","San Diego","California","True","attack","Foot","True",2015
+"361","Austin Goodner",2015-05-17,"shot","gun",18,"M","W","St. Petersburg","Florida","True","attack","Not fleeing","False",2015
+"362","Timothy Jones",2015-05-17,"shot","sword",27,"M","W","Ruidoso","New Mexico","False","other","Not fleeing","False",2015
+"363","Alfredo Rials-Torres",2015-05-19,"shot","unarmed",54,"M","H","Arlington","Virginia","False","attack","Not fleeing","False",2015
+"364","Jonathan McIntosh",2015-05-19,"shot","gun",35,"M","W","Cabot","Arkansas","False","attack","Not fleeing","False",2015
+"365","David  Gaines",2015-05-19,"shot","gun",17,"M","W","Grand Junction","Colorado","False","attack","Other","False",2015
+"366","Anthony Gomez",2015-05-20,"shot","gun",29,"M","B","Lancaster","Pennsylvania","False","attack","Not fleeing","False",2015
+"367","Jonathan  Colley",2015-05-20,"shot and Tasered","knife",52,"M","W","Green","Ohio","False","other","Not fleeing","False",2015
+"368","Chrislon Talbott",2015-05-20,"shot","gun",38,"M","B","Owensboro","Kentucky","False","attack","Not fleeing","False",2015
+"369","Nikki Jo Burtsfield",2015-05-20,"shot and Tasered","knife",39,"F","W","Gillette","Wyoming","False","other","Car","False",2015
+"370","Marcus Wheeler",2015-05-20,"shot","gun",26,"M","B","Omaha","Nebraska","False","attack","Not fleeing","False",2015
+"371","David Alejandro Gandara",2015-05-21,"shot","gun",22,"M","H","El Paso","Texas","True","undetermined","Not fleeing","False",2015
+"372","Javoris Washington",2015-05-21,"shot","knife",29,"M","B","Ft. Lauderdale","Florida","False","attack","Not fleeing","False",2015
+"373","James Anthony Cooper",2015-05-21,"shot","knife",43,"M","W","North Charleston","South Carolina","False","attack","Not fleeing","False",2015
+"374","Elvin Diaz",2015-05-21,"shot","knife",24,"M","H","Hackensack","New Jersey","True","other","Not fleeing","False",2015
+"375","Jerome Caldwell",2015-05-21,"shot","gun",32,"M","B","Charleston","South Carolina","False","attack","Not fleeing","False",2015
+"376","Michael Lowery",2015-05-22,"shot","toy weapon",40,"M","W","Somerset","Pennsylvania","False","attack","Not fleeing","False",2015
+"377","Caso Jackson",2015-05-23,"shot","gun",25,"M","B","Detroit","Michigan","False","attack","Not fleeing","False",2015
+"378","James Horn",2015-05-23,"shot","gun",47,"M","W","Sedalia","Missouri","False","attack","Not fleeing","False",2015
+"379","Eric Robinson",2015-05-23,"shot","gun",40,"M","W","Eagar","Arizona","False","attack","Car","False",2015
+"380","Cassandra Bolin",2015-05-25,"shot","gun",31,"F","W","Austin","Texas","True","attack","Not fleeing","False",2015
+"381","Anthony Briggs",2015-05-25,"shot","knife",36,"M","B","Huntsville","Alabama","True","attack","Not fleeing","False",2015
+"382","Millard Tallant III",2015-05-26,"shot","gun",62,"M","W","Snohomish","Washington","True","attack","Not fleeing","False",2015
+"383","Dalton Branch",2015-05-26,"shot","gun",51,"M","B","Queens","New York","False","attack","Not fleeing","False",2015
+"384","Jessie  Williams",2015-05-26,"shot","undetermined",24,"M","W","Bossier City","Louisiana","False","attack","Not fleeing","False",2015
+"385","Scott McAllister",2015-05-27,"shot","knife",39,"M","W","Ideal Beach","New Jersey","False","attack","Not fleeing","False",2015
+"386","Garrett  Sandeno",2015-05-27,"shot","toy weapon",24,"M","W","Edmond","Oklahoma","True","attack","Not fleeing","False",2015
+"387","Harry Davis",2015-05-27,"shot","knife",57,"M","W","Rockville","Georgia","True","attack","Not fleeing","False",2015
+"388","Feras Morad",2015-05-27,"shot and Tasered","unarmed",20,"M","O","Long Beach","California","False","other","Not fleeing","False",2015
+"389","Simon Hubble",2015-05-27,"shot and Tasered","screwdriver",33,"M","W","Alpine","California","True","other","Not fleeing","False",2015
+"390","Darrell Morgan",2015-05-28,"shot","gun",60,"M","W","Lancaster","South Carolina","False","attack","Not fleeing","False",2015
+"391","James Strong",2015-05-28,"shot","gun",32,"M","B","Northglenn","Colorado","False","attack","Not fleeing","False",2015
+"392","Kenneth Dothard",2015-05-28,"shot","gun",40,"M","B","Carrollton","Georgia","False","attack","Not fleeing","False",2015
+"393","Kyle Baker",2015-05-28,"shot and Tasered","lawn mower blade",18,"M","W","Trenton","Michigan","False","attack","Not fleeing","False",2015
+"394","Kevin Allen",2015-05-29,"shot","knife",36,"M","B","Lyndhurst","New Jersey","False","other","Not fleeing","False",2015
+"395","Nehemiah Fischer",2015-05-29,"shot","gun",35,"M","W","Okmulgee County","Oklahoma","False","attack","Not fleeing","False",2015
+"396","Robert Box",2015-05-29,"shot","gun",55,"M","W","Wilderville","Oregon","False","attack","Not fleeing","False",2015
+"397","Ebin Lamont Proctor",2015-05-30,"shot","unarmed",19,"M","W","Cottonwood","Arizona","False","attack","Foot","False",2015
+"398","Alexander Tirado Rivera",2015-05-30,"shot","toy weapon",39,"M","H","Nashville","Tennessee","False","attack","Not fleeing","False",2015
+"399","James Anthony Morris",2015-05-31,"shot","gun",40,"M",NA,"Medford","Oregon","True","attack","Not fleeing","False",2015
+"400","James Bushey",2015-05-31,"shot","toy weapon",47,"M","W","Palestine","Texas","False","attack","Not fleeing","True",2015
+"401","Joseph Ladd",2015-06-01,"shot","gun",23,"M","W","Greece","New York","True","attack","Other","False",2015
+"402","Usaamah Rahim",2015-06-02,"shot","knife",26,"M","B","Roslindale","Massachusetts","False","other","Not fleeing","False",2015
+"403","Kamal Dajani",2015-06-02,"shot","knife",26,"M","W","Azle","Texas","True","attack","Not fleeing","False",2015
+"404","Lorenzo Garza",2015-06-03,"shot","gun",46,"M","H","Delano","California","False","attack","Car","False",2015
+"405","Rudy Baca",2015-06-03,"shot and Tasered","unarmed",36,"M","H","Los Lunas","New Mexico","False","attack","Not fleeing","False",2015
+"406","Miguel Martinez",2015-06-03,"shot","gun",18,"M","H","Ellis County","Texas","True","attack","Car","False",2015
+"407","Edelmiro Hernandez",2015-06-03,"shot","knife",33,"M","H","Fuqua","Texas","False","other","Car","False",2015
+"408","Ronald Neal",2015-06-03,"shot","gun",56,"M","W","Byram","New Jersey","True","attack","Not fleeing","False",2015
+"409","Jesus Quezada Gomez",2015-06-05,"shot","gun",50,"M","H","Santa Maria","California","False","attack","Not fleeing","False",2015
+"410","Christie Cathers",2015-06-05,"shot","vehicle",45,"F","W","Morgantown","West Virginia","False","other","Car","False",2015
+"411","Demouria Hogg",2015-06-06,"shot and Tasered","gun",30,"M","B","Oakland","California","False","attack","Not fleeing","True",2015
+"412","James Smillie",2015-06-06,"shot","gun",53,"M","W","North Port","Florida","False","attack","Not fleeing","False",2015
+"413","Alejandro Campos Fernandez",2015-06-06,"shot","gun",45,"M","H","Watsonsville","California","False","attack","Foot","False",2015
+"414","Joe Nevels",2015-06-06,"shot","box cutter",42,"M","W","Midland","Texas","True","other","Not fleeing","False",2015
+"415","Damien Ramirez",2015-06-06,"shot","gun",27,"M","H","Strasburg","Colorado","False","attack","Car","False",2015
+"416","Matthew Wayne McDaniel",2015-06-07,"shot","gun",36,"M","W","Melbourne","Florida","False","attack","Not fleeing","False",2015
+"417","Gene Marshall",2015-06-07,"shot","gun",58,"M","W","Woodland","Washington","True","attack","Not fleeing","False",2015
+"418","James Johnson",2015-06-08,"shot","gun",54,"M",NA,"Beech Grove","Indiana","True","attack","Not fleeing","False",2015
+"419","Rene Garcia",2015-06-08,"shot","knife",30,"M","H","Anaheim","California","True","other","Not fleeing","True",2015
+"420","Richard Warolf",2015-06-08,"shot","gun",69,"M","W","Sun City","Arizona","True","attack","Not fleeing","False",2015
+"421","Jeremy Linhart",2015-06-09,"shot","unarmed",30,"M","W","Findlay","Ohio","False","attack","Not fleeing","False",2015
+"422","Greg  Hartley",2015-06-09,"shot","gun",45,"M","W","Tomball","Texas","False","attack","Car","False",2015
+"423","QuanDavier Hicks",2015-06-09,"shot","gun",22,"M","B","Cincinnati","Ohio","False","attack","Not fleeing","False",2015
+"424","Ryan Bolinger",2015-06-09,"shot","unarmed",28,"M","W","Des Moines","Iowa","False","other","Car","False",2015
+"425","Isiah Hampton",2015-06-10,"shot","gun",19,"M","B","Bronx","New York","False","attack","Not fleeing","False",2015
+"426","Charles Ziegler",2015-06-11,"shot","gun",40,"M","B","Pompano Beach","Florida","False","attack","Not fleeing","False",2015
+"427","Raymond  Phillips",2015-06-11,"shot","gun",86,"M",NA,"Columbia","Tennessee","True","attack","Not fleeing","False",2015
+"428","Fritz Severe",2015-06-11,"shot","undetermined",46,"M","B","Miami","Florida","False","other","Not fleeing","False",2015
+"429","Mark Flores",2015-06-11,"shot","gun",28,"M","H","Bexar County","Texas","True","attack","Not fleeing","False",2015
+"430","Raymond Peralta-Lantigua",2015-06-11,"shot","knife",22,"M","H","Hackensack","New Jersey","True","other","Not fleeing","False",2015
+"431","Shelly Haendiges",2015-06-12,"shot","toy weapon",17,"F","W","Kokomo","Indiana","True","attack","Not fleeing","False",2015
+"432","Anthony Hodge",2015-06-13,"shot","gun",46,"M","W","Fort Wayne","Indiana","False","attack","Not fleeing","False",2015
+"433","Deng Manyoun",2015-06-13,"shot","flagpole",35,"M","B","Louisville","Kentucky","False","other","Not fleeing","False",2015
+"434","James Boulware",2015-06-13,"shot","guns and explosives",35,"M","W","Hutchins","Texas","True","attack","Not fleeing","False",2015
+"435","Kenneth Garcia",2015-06-14,"shot","vehicle",28,"M","H","Stockton","California","False","attack","Car","False",2015
+"436","Zane Terryn",2015-06-14,"shot","gun",15,"M","W","Cocoa","Florida","True","attack","Not fleeing","False",2015
+"437","Kris Jackson",2015-06-15,"shot","unarmed",22,"M","B","South Lake Tahoe","California","False","other","Foot","False",2015
+"438","Christopher DeLeon",2015-06-16,"shot","gun",28,"M","H","Visalia","California","False","attack","Not fleeing","False",2015
+"439","Joe Charboneau",2015-06-16,"shot","gun",31,"M","N","Wood Lake","North Dakota","False","attack","Not fleeing","False",2015
+"440","Wendy Chappell",2015-06-17,"shot","gun",40,"F","W","Clanton","Alabama","False","attack","Car","False",2015
+"441","Kenneth Lanphier",2015-06-17,"shot","gun",48,"M","W","Hobbs","New Mexico","True","attack","Not fleeing","False",2015
+"442","Oleg Tcherniak",2015-06-18,"shot","knife",58,"M","W","Coney Island","New York","False","attack","Foot","False",2015
+"443","Santos Laboy",2015-06-19,"shot","knife",44,"M","H","Boston","Massachusetts","True","other","Foot","False",2015
+"444","Trepierre Hummons",2015-06-19,"shot","gun",21,"M","B","Cincinnati","Ohio","True","attack","Not fleeing","False",2015
+"445","Louis Atencio",2015-06-19,"shot","gun",50,"M","H","Greeley","Colorado","False","attack","Not fleeing","False",2015
+"446","Alfontish Cockerham",2015-06-20,"shot","gun",23,"M","B","Chicago","Illinois","False","attack","Foot","False",2015
+"447","Adrian Simental",2015-06-21,"shot","unarmed",24,"M","H","Azusa","California","True","other","Not fleeing","False",2015
+"448","Charles  Marshall",2015-06-21,"shot","cordless drill",49,"M","W","Houston","Texas","True","other","Not fleeing","False",2015
+"449","James Monroe Barrett",2015-06-22,"shot","gun",60,"M","W","Ronda","North Carolina","False","attack","Foot","False",2015
+"450","Eduardo Reyes",2015-06-22,"shot","gun",35,"M","H","Citrus Heights","California","False","attack","Not fleeing","False",2015
+"451","Tyler Wicks",2015-06-22,"shot","gun",29,"M","W","Augusta","Georgia","True","attack","Not fleeing","False",2015
+"452","Tyrone Harris",2015-06-22,"shot","gun",20,"M","B","Pittsburgh","Pennsylvania","False","attack","Car","False",2015
+"453","Joshua Dyer",2015-06-23,"shot","unarmed",34,"M","W","Indianapolis","Indiana","False","other","Car","False",2015
+"454","Jonathan Wilson",2015-06-23,"shot","knife",22,"M","W","Hutchinson","Kansas","False","attack","Not fleeing","False",2015
+"455","Randall Waddel",2015-06-23,"shot","knife",49,"M","W","Weatherford","Texas","True","other","Foot","False",2015
+"456","Taylor Culbertson",2015-06-23,"shot","gun",32,"M","W","Omaha","Nebraska","False","attack","Not fleeing","False",2015
+"457","Damien A. Harrell",2015-06-24,"shot","gun",26,"M","B","York County","Virginia","False","attack","Not fleeing","True",2015
+"458","Spencer McCain",2015-06-25,"shot","unarmed",41,"M","B","Owings Mills","Maryland","True","other","Not fleeing","False",2015
+"459","Gilbert Jake Vanderburgh",2015-06-25,"shot","gun",61,"M","W","Fresno","California","False","attack","Not fleeing","False",2015
+"460","Richard Matt",2015-06-26,"shot","gun",49,"M","W","Malone","New York","False","attack","Other","False",2015
+"461","Joe Angel Cisneros",2015-06-26,"shot","gun",28,"M","H","San Antonio","Texas","False","other","Foot","False",2015
+"462","Joshua Crittenden",2015-06-27,"shot","gun",35,"M","W","Tahlequah","Oklahoma","False","attack","Not fleeing","True",2015
+"463","Alan  Bellew",2015-06-28,"shot","toy weapon",29,"M","W","Portland","Oregon","False","attack","Not fleeing","False",2015
+"464","Richard LaPort",2015-06-29,"shot","gun",51,"M","W","Edinburg","New York","True","attack","Not fleeing","False",2015
+"465","Clay Alan  Lickteig",2015-06-30,"shot","gun",52,"M","W","Franklin","North Carolina","False","attack","Not fleeing","False",2015
+"466","Kevin Lamont Judson",2015-07-01,"shot","vehicle",24,"M","B","McMinnville","Oregon","False","attack","Foot","False",2015
+"467","Kaleb Landon",2015-07-01,"shot","gun",32,"M","W","Josephine County","Oregon","False","attack","Car","False",2015
+"468","Douglas Buckley",2015-07-02,"shot","toy weapon",45,"M","W","Brockton","Massachusetts","True","attack","Not fleeing","False",2015
+"469","Ton Nguyen",2015-07-02,"shot","knife",60,"M","A","San Diego","California","False","other","Not fleeing","False",2015
+"470","Victor Emanuel Larosa",2015-07-02,"shot","unarmed",23,"M","B","Jacksonville","Florida","False","attack","Foot","False",2015
+"471","Brian Johnson",2015-07-02,"shot","crossbow",59,"M",NA,"Meadow Bridge","West Virginia","True","attack","Not fleeing","False",2015
+"472","Cesar A. Limon Juarez",2015-07-03,"shot and Tasered","knife",27,"M","H","West Covina","California","False","attack","Not fleeing","False",2015
+"473","Arturo Lopez",2015-07-03,"shot","gun",46,"M","H","Lancaster","California","False","attack","Not fleeing","False",2015
+"474","Oscar Camacho",2015-07-03,"shot","gun",33,"M","H","Camden","New Jersey","True","attack","Not fleeing","False",2015
+"475","Joseph Julian",2015-07-03,"shot","gun",40,"M","W","Miami Beach","Florida","False","attack","Not fleeing","False",2015
+"476","Robert Elando Malone",2015-07-04,"shot","gun",42,"M","B","Oklahoma City","Oklahoma","False","attack","Foot","False",2015
+"477","Michael Shannon Gaby",2015-07-04,"shot","gun",37,"M","W","Morristown","Tennessee","False","attack","Not fleeing","False",2015
+"478","Kawanza Beaty",2015-07-04,"shot","gun",23,"M","B","Newport News","Virginia","False","attack","Foot","False",2015
+"479","Bryan David Bauer",2015-07-04,"shot","gun",36,"M","W","Henderson","Nevada","False","attack","Not fleeing","False",2015
+"480","John Deming",2015-07-05,"shot","unarmed",19,"M","W","Pleasanton","California","False","attack","Foot","False",2015
+"481","Michael Holt",2015-07-05,"shot","gun",35,"M","W","Austin","Texas","False","attack","Foot","False",2015
+"482","Richard Munroe",2015-07-05,"shot and Tasered","toy weapon",25,"M","W","Austin","Texas","True","attack","Not fleeing","False",2015
+"483","Johnny Ray Anderson",2015-07-05,"shot","unarmed",43,"M","W","Hawaiian Gardens","California","False","other","Not fleeing","False",2015
+"484","Tyler Rogers",2015-07-06,"shot","gun",20,"M","W","Oklahoma City","Oklahoma","False","attack","Not fleeing","False",2015
+"485","Hagen Esty-Lennon",2015-07-06,"shot","knife",42,"M","W","Bath","New Hampshire","True","other","Not fleeing","True",2015
+"486","David Oliva Sarabia",2015-07-06,"shot and Tasered","knife",42,"M","H","Atwater","California","False","attack","Car","False",2015
+"487","John Leonard Berry",2015-07-06,"shot and Tasered","vehicle",31,"M","W","Lakewood","California","True","attack","Other","False",2015
+"488","Jason Hendley",2015-07-06,"shot","knife",29,"M","B","Los Angeles","California","False","attack","Not fleeing","False",2015
+"489","Marcellus Jamarcus Burley",2015-07-07,"shot","gun",18,"M","B","Houston","Texas","False","attack","Not fleeing","False",2015
+"490","Adam Dujanovic",2015-07-07,"shot","metal pole",33,"M","W","Mesa","Arizona","False","other","Not fleeing","False",2015
+"491","Joe Cody",2015-07-07,"shot","gun",59,"M","W","Dallas","Texas","False","attack","Not fleeing","False",2015
+"492","Daniel Hernandez",2015-07-07,"shot","gun",47,"M","H","Bakersfield","California","False","attack","Not fleeing","False",2015
+"493","Jose Graciano Lopez",2015-07-07,"shot","gun",39,"M","H","Edinburg","Texas","True","attack","Not fleeing","False",2015
+"494","Tremaine Dantzler",2015-07-07,"shot","knife",37,"M","B","Atlantic City","New Jersey","False","attack","Foot","False",2015
+"495","Nicholas Booth",2015-07-07,"shot","gun",35,"M","W","Sugar Creek","Missouri","False","attack","Car","False",2015
+"496","Joshua Blough",2015-07-07,"shot","knife",28,"M","W","Elizabethtown","Kentucky","False","other","Not fleeing","False",2015
+"497","Michael Terence Westrich",2015-07-08,"shot","gun",59,"M","W","Beaverton","Oregon","False","attack","Not fleeing","False",2015
+"498","Dallas Shatley",2015-07-08,"shot","vehicle",62,"M","W","Ashe County","North Carolina","False","attack","Car","True",2015
+"499","Rocco Joseph Palmisano",2015-07-09,"shot","gun",50,"M","W","Parowan","Utah","False","attack","Not fleeing","False",2015
+"500","Robert Hammonds",2015-07-09,"shot","gun",68,"M","W","Phoenix","Arizona","False","attack","Foot","False",2015
+"501","Martice Milliner",2015-07-09,"shot","gun",27,"M","B","Chicago","Illinois","False","attack","Foot","False",2015
+"502","Cyrus Hurtado",2015-07-09,"shot","gun",17,"M","W","Boulder Creek","California","True","attack","Not fleeing","False",2015
+"503","Neil White",2015-07-09,"shot and Tasered","Taser",38,"M","W","Los Angeles","California","False","attack","Other","False",2015
+"504","Javon Hawkins",2015-07-09,"shot","sword",21,"M","B","Kansas City","Missouri","False","other","Not fleeing","False",2015
+"505","James Michael Todora",2015-07-10,"shot","gun",54,"M","W","Las Vegas","Nevada","True","attack","Not fleeing","True",2015
+"506","Freddie Blue",2015-07-10,"shot","gun",20,"M","B","Covington","Georgia","False","attack","Not fleeing","False",2015
+"507","Eugene McSwain",2015-07-10,"shot","gun",25,"M","B","Chicago","Illinois","False","attack","Not fleeing","False",2015
+"508","Billy Maine",2015-07-11,"shot","gun",31,"M","W","Olivehurst","California","False","attack","Not fleeing","False",2015
+"509","Paul Castaway",2015-07-12,"shot","knife",35,"M","N","Denver","Colorado","True","other","Foot","False",2015
+"510","Salvado Ellswood",2015-07-12,"shot and Tasered","unarmed",36,"M","B","Plantation","Florida","False","attack","Not fleeing","False",2015
+"511","David Lepine",2015-07-12,"shot","gun",60,"M","W","Austin","Texas","False","attack","Foot","False",2015
+"512","Matthew Watson",2015-07-12,"shot","gun",24,"M","W","River Forest","Illinois","False","attack","Not fleeing","False",2015
+"513","Christopher Benton",2015-07-12,"shot","gun",27,"M","W","Casper","Wyoming","False","attack","Not fleeing","False",2015
+"514","Frederick Farmer",2015-07-13,"shot","gun",20,"M","B","Stone Mountain","Georgia","False","attack","Not fleeing","False",2015
+"515","Matthew Ryan Graham",2015-07-13,"shot","gun",24,"M","W","Dunsmuir","California","False","attack","Car","False",2015
+"516","Rafael Suazo",2015-07-13,"shot","vehicle",23,"M","H","Lynn","Massachusetts","False","attack","Not fleeing","False",2015
+"517","Jason Davis",2015-07-13,"shot and Tasered","box cutter",41,"M","W","Los Angeles","California","False","other","Not fleeing","False",2015
+"518","Chacarion Avant",2015-07-14,"shot","gun",20,"M","B","Mascotte","Florida","False","attack","Not fleeing","False",2015
+"519","Charles Crandall",2015-07-14,"shot","gun",76,"M",NA,"Southington","Ohio","False","attack","Not fleeing","False",2015
+"520","Eugene Kailing",2015-07-15,"shot and Tasered","metal pipe",43,"M","W","Marion","Michigan","True","other","Not fleeing","False",2015
+"521","Anthonie Smith",2015-07-16,"shot and Tasered","metal hand tool",25,"M","B","Moreno Valley","California","True","other","Not fleeing","False",2015
+"522","Antonio Gonzalez",2015-07-16,"shot","sword",29,"M","H","Wauwatosa","Wisconsin","True","other","Not fleeing","False",2015
+"523","Edward Foster III",2015-07-16,"shot","gun",35,"M","B","Homestead","Florida","False","attack","Not fleeing","False",2015
+"524","Patrick Stephen Pippin",2015-07-16,"shot","gun",30,"M","W","Kansas City","Kansas","False","attack","Other","False",2015
+"525","Mohammad Youssef Abdulazeez",2015-07-16,"shot","gun",24,"M","O","Chattanooga","Tennessee","True","attack","Not fleeing","False",2015
+"526","Saige Hack",2015-07-16,"shot","gun",23,"M","N","Cheyenne","Wyoming","False","attack","Not fleeing","False",2015
+"527","Pierre Gabriel Koellner",2015-07-16,"shot","gun",29,"M","W","Opp","Alabama","False","attack","Foot","False",2015
+"528","Samuel Smith",2015-07-17,"shot","knife",27,"M","W","Seattle","Washington","False","other","Foot","False",2015
+"529","Albert Joseph Davis",2015-07-17,"shot and Tasered","unarmed",23,"M","B","Orlando","Florida","False","attack","Foot","False",2015
+"530","Jackie Brand",2015-07-17,"shot","gun",50,"M","W","Needles","California","True","attack","Not fleeing","False",2015
+"531","Darrius Stewart",2015-07-17,"shot","unarmed",19,"M","B","Memphis","Tennessee","False","attack","Foot","False",2015
+"532","Jose Roman Rodriguez",2015-07-17,"shot","undetermined",24,"M","H","Brownsville","Texas","False","other","Other","False",2015
+"533","David  Wheat Jr.",2015-07-18,"shot","knife",22,"M","W","Fort Collins","Colorado","True","attack","Not fleeing","False",2015
+"534","Kevin Thomas Snyder",2015-07-18,"shot","gun",46,"M","W","Phoenix","Arizona","False","attack","Not fleeing","False",2015
+"535","Charles Edward Dewey",2015-07-18,"shot","gun",65,"M","W","Colby","Kansas","False","attack","Not fleeing","False",2015
+"536","Samuel DuBose",2015-07-19,"shot","unarmed",43,"M","B","Mt. Auburn","Ohio","False","other","Car","True",2015
+"537","Joshua LeBoeuf",2015-07-20,"shot","gun",35,"M","W","Winnie","Texas","False","attack","Other","False",2015
+"538","Troy Francis",2015-07-20,"shot","knife",54,"M",NA,"Fremont","California","False","other","Not fleeing","False",2015
+"539","Darren Billy Wilson",2015-07-21,"shot","unarmed",47,"M","W","White","Georgia","False","other","Not fleeing","False",2015
+"540","Joseph Fuller",2015-07-21,"shot","gun",24,"M","W","Oakland Park","Florida","False","other","Car","False",2015
+"541","Jerrod Tyre",2015-07-21,"shot","gun",35,"M","W","Jesup","Georgia","False","attack","Not fleeing","False",2015
+"542","Francisco Benitez-Santiago",2015-07-22,"shot","gun",25,"M","H","Monroe","Wisconsin","False","attack","Not fleeing","False",2015
+"543","Andre Dontrell Williams",2015-07-22,"shot and Tasered","knife",26,"M","B","Oklahoma City","Oklahoma","False","other","Other","False",2015
+"544","Devon Guisherd",2015-07-22,"shot","gun",27,"M","B","Philadelphia","Pennsylvania","False","attack","Not fleeing","False",2015
+"545","Dontae L. Martin",2015-07-23,"shot","gun",34,"M","B","Dayton","Ohio","False","attack","Not fleeing","False",2015
+"546","Derek Wolfsteller",2015-07-23,"shot and Tasered","unarmed",31,"M","W","Plymouth","Minnesota","True","attack","Not fleeing","False",2015
+"547","Brian Stortzum",2015-07-23,"shot","gun",32,"M","W","Myrtle Beach","South Carolina","False","attack","Not fleeing","False",2015
+"548","Robbie Lee Edison",2015-07-23,"shot","toy weapon",47,"M","W","Douglas","Wyoming","False","attack","Not fleeing","False",2015
+"549","Tamala Satre",2015-07-23,"shot","gun",44,"F","W","Meadow Vista","California","True","attack","Not fleeing","False",2015
+"550","Seth Raines",2015-07-24,"shot","gun",44,"M","W","Studio City","California","False","attack","Not fleeing","False",2015
+"551","Lee Aaron Gerston",2015-07-24,"shot and Tasered","knife",30,"M","W","Pinnacle","North Carolina","False","other","Not fleeing","False",2015
+"552","Christopher Olmstead",2015-07-25,"shot","blunt object",60,"M","W","New Orleans","Louisiana","True","attack","Car","False",2015
+"553","Roger Braswell",2015-07-25,"shot","gun",50,"M","W","Decatur","Georgia","True","attack","Not fleeing","False",2015
+"554","Bryan Keith  Day",2015-07-25,"shot","toy weapon",36,"M","B","Las Vegas","Nevada","False","attack","Not fleeing","False",2015
+"555","Earl Jackson",2015-07-25,"shot","gun",59,"M","B","Micanopy","Florida","False","attack","Not fleeing","False",2015
+"556","Khari Westly",2015-07-26,"shot","gun",33,"M","B","Shreveport","Louisiana","False","attack","Not fleeing","False",2015
+"557","Zachary Hammond",2015-07-26,"shot","vehicle",19,"M","W","Seneca","South Carolina","False","other","Other","False",2015
+"558","Timothy Milliken",2015-07-27,"shot","knife",56,"M","W","Irmo","South Carolina","False","attack","Not fleeing","False",2015
+"559","Jean Paul Falgout",2015-07-27,"shot","gun",45,"M","W","Houma","Louisiana","False","attack","Car","False",2015
+"560","Samuel Forgy",2015-07-27,"shot and Tasered","knife",22,"M","W","Boulder","Colorado","False","other","Not fleeing","False",2015
+"561","Timothy Johnson",2015-07-28,"shot","knife",41,"M",NA,"Manila","Arkansas","False","other","Not fleeing","False",2015
+"562","Michael Malone",2015-07-29,"shot","gun",34,"M","H","Las Cruces","New Mexico","False","undetermined","Foot","False",2015
+"563","Roger Darrin Barker",2015-07-29,"shot","gun",53,"M","W","Logan","Utah","True","attack","Not fleeing","False",2015
+"564","Mark Perkins",2015-07-30,"shot","gun",48,"M","W","Gardnerville Ranchos","Nevada","False","attack","Not fleeing","False",2015
+"565","Ryan Daniel Vrenon",2015-07-30,"shot","gun",25,"M","W","Dunsmuir","California","False","attack","Car","False",2015
+"566","Philip Vallejo",2015-07-30,"shot","gun",30,"M","H","Fort Worth","Texas","False","attack","Not fleeing","False",2015
+"567","Oscar Lotari Romero",2015-07-30,"shot and Tasered","metal stick",47,"M","H","Whittier","California","False","attack","Not fleeing","False",2015
+"568","Rafael Molina",2015-07-31,"shot","gun",33,"M","H","Albuquerque","New Mexico","False","attack","Not fleeing","True",2015
+"569","Jeremy  Hatch",2015-07-31,"shot","gun",34,"M","W","Roswell","New Mexico","False","attack","Not fleeing","False",2015
+"570","David  Cook",2015-08-01,"shot","gun",52,"M",NA,"Nitro","West Virginia","False","attack","Not fleeing","False",2015
+"571","Armando Serrano",2015-08-01,"shot","gun",29,"M","H","Tucson","Arizona","False","attack","Not fleeing","False",2015
+"572","Virgil Reynolds",2015-08-02,"shot","vehicle",63,"M","W","Houston","Texas","True","other","Not fleeing","False",2015
+"573","Antonio Clements",2015-08-03,"shot","gun",49,"M","B","Oakland","California","False","attack","Not fleeing","False",2015
+"574","Joshua Malave",2015-08-03,"shot","gun",18,"M","W","Campbelltown","Pennsylvania","False","attack","Foot","False",2015
+"575","Franklin Short",2015-08-03,"shot","gun",71,"M","W","Powhatan County","Virginia","False","attack","Not fleeing","False",2015
+"576","Shawn Ruble",2015-08-03,"shot","gun",35,"M","W","Muncie","Indiana","True","attack","Not fleeing","False",2015
+"577","Daniel Robert Avila",2015-08-04,"shot","undetermined",55,"M","H","San Diego County","California","True","other","Not fleeing","False",2015
+"578","Darius D. Graves",2015-08-04,"shot","gun",31,"M","B","Rantoul","Illinois","True","undetermined","Not fleeing","True",2015
+"579","Tyler Alexander Dattilo",2015-08-05,"shot","knife",18,"M","W","Louisville","Kentucky","False","attack","Not fleeing","False",2015
+"580","John Dieringer",2015-08-05,"shot","knife",51,"M","W","Greenfield","Wisconsin","True","other","Not fleeing","False",2015
+"581","Raymond Hodge",2015-08-05,"shot","gun",39,"M","B","Maui","Hawaii","False","attack","Not fleeing","False",2015
+"582","Keshawn Dominique Hargrove",2015-08-05,"shot","gun",20,"M","B","Richmond","Virginia","False","attack","Foot","False",2015
+"583","Vincente Montano",2015-08-05,"shot","hatchet",29,"M","W","Antioch","Tennessee","True","attack","Not fleeing","False",2015
+"584","Jason Galaviz",2015-08-05,"shot","gun",40,"M","W","Tacoma","Washington","False","attack","Not fleeing","False",2015
+"585","Gustavo Ponce-Galon",2015-08-06,"shot","knife",42,"M","H","Elsmere","Kentucky","False","attack","Not fleeing","False",2015
+"586","Charles Bertram",2015-08-06,"shot","gun",22,"M","B","El Paso","Texas","False","attack","Car","False",2015
+"587","Christian Taylor",2015-08-07,"shot","unarmed",19,"M","B","Arlington","Texas","False","other","Not fleeing","False",2015
+"588","Abel Correa",2015-08-07,"shot","sharp object",24,"M","H","Las Vegas","Nevada","True","other","Not fleeing","True",2015
+"589","Aaron  Marchese",2015-08-07,"shot","toy weapon",30,"M","W","Fresno","California","True","attack","Not fleeing","False",2015
+"590","Mark Keckhafer",2015-08-07,"shot","vehicle",53,"M","W","Superior","Montana","False","other","Car","False",2015
+"591","Tsombe Clark",2015-08-07,"shot","gun",25,"M","B","Greenville","North Carolina","False","attack","Not fleeing","False",2015
+"592","Derrick Lee Hunt",2015-08-07,"shot","knife",28,"M","B","Long Beach","California","False","attack","Not fleeing","False",2015
+"593","Roderick Burr",2015-08-08,"shot","gun",33,"M",NA,"Brookshire","Texas","False","attack","Not fleeing","False",2015
+"594","Shamir Terrel Palmer",2015-08-08,"shot","gun",24,"M","B","Summerville","South Carolina","False","attack","Car","False",2015
+"595","Jeffrey Clyde Wilkes",2015-08-08,"shot","gun",59,"M","W","Gastonia","North Carolina","False","attack","Not fleeing","False",2015
+"596","Kevin McDaniel",2015-08-08,"shot","gun",46,"M","W","Spokane","Washington","False","attack","Not fleeing","False",2015
+"597","Andre Green",2015-08-09,"shot","vehicle",15,"M","B","Indianapolis","Indiana","False","attack","Not fleeing","False",2015
+"598","Eric Tompkins",2015-08-09,"shot","gun",41,"M","W","Ardmore","Oklahoma","True","attack","Not fleeing","False",2015
+"599","Robert Patrick Quinn",2015-08-09,"shot","toy weapon",77,"M",NA,"Pittston","Pennsylvania","True","attack","Not fleeing","False",2015
+"600","Edrian Rivera",2015-08-09,"shot","meat cleaver",22,"M","H","San Jose","California","False","attack","Foot","False",2015
+"601","Richard Tyler Young",2015-08-10,"shot","vehicle",24,"M","W","Gilbert","Arizona","False","other","Not fleeing","False",2015
+"602","Casey George Alarcon",2015-08-11,"shot","gun",34,"M","W","Sandpoint","Idaho","False","attack","Not fleeing","False",2015
+"603","Randall Lance Hughes",2015-08-11,"shot and Tasered","knife",48,"M","W","Waco","Texas","False","other","Not fleeing","False",2015
+"604","Richard Dean Shull Jr.",2015-08-12,"shot","gun",24,"M","W","Odessa","Texas","False","attack","Not fleeing","False",2015
+"605","Nathaniel Wilks",2015-08-12,"shot","gun",27,"M","B","Oakland","California","False","attack","Car","True",2015
+"606","Redel Jones",2015-08-12,"shot and Tasered","knife",30,"F","B","Los Angeles","California","False","other","Not fleeing","False",2015
+"607","Anthony Lorenzo Vallejo",2015-08-12,"shot","gun",27,"M","H","Hemet","California","False","attack","Car","False",2015
+"608","Reginald Marshall",2015-08-12,"shot","gun",27,"M","B","Toledo","Ohio","False","attack","Car","False",2015
+"609","William Smith",2015-08-12,"shot","gun",49,"M","W","Hobbs","New Mexico","False","undetermined","Car","False",2015
+"610","Garland Tyree",2015-08-14,"shot","gun",38,"M","B","Staten Island","New York","False","attack","Not fleeing","False",2015
+"611","Hector Rene Sorriano Gonzalez",2015-08-14,"shot","gun",26,"M","H","Boerne","Texas","False","attack","Not fleeing","False",2015
+"612","Asshams Pharoah Manley",2015-08-14,"shot","unarmed",30,"M","B","District Heights","Maryland","True","attack","Foot","False",2015
+"613","Christopher Anderson",2015-08-14,"shot and Tasered","box cutter",53,"M","W","Bolton","Connecticut","False","attack","Car","False",2015
+"614","John Unsworth",2015-08-15,"shot and Tasered","unarmed",43,"M","W","Hanover","Indiana","False","attack","Not fleeing","False",2015
+"615","Allen Matthew Baker",2015-08-15,"shot","gun",23,"M","B","Sunnyvale","California","False","attack","Not fleeing","False",2015
+"616","Benjamin Peter Ashley",2015-08-15,"shot",NA,34,"M","B","Inyokern","California","False","attack","Not fleeing","False",2015
+"617","Jonathon  Pope",2015-08-15,"shot","gun",30,"M","W","Carson City","Nevada","False","attack","Not fleeing","False",2015
+"618","Matthew Castillo",2015-08-16,"shot","gun",29,"M","H","San Jose","California","False","other","Not fleeing","False",2015
+"619","Steven B. Norton",2015-08-16,"shot","gun",47,"M","W","Kerrville","Texas","False","attack","Not fleeing","False",2015
+"620","Frederick Roy",2015-08-17,"shot","gun",35,"M","B","Houston","Texas","False","attack","Not fleeing","False",2015
+"621","Richard Jacquez",2015-08-17,"shot","unarmed",40,"M","H","San Jose","California","False","other","Foot","False",2015
+"622","Mansur Ball-Bey",2015-08-19,"shot","gun",18,"M","B","St. Louis","Missouri","False","attack","Foot","False",2015
+"623","Deviere Ernel Ransom",2015-08-19,"shot","gun",24,"M","B","Bloomfield Township","Michigan","False","attack","Car","False",2015
+"624","Jason Hale",2015-08-19,"shot","gun",29,"M","W","Hunters","Washington","True","attack","Foot","False",2015
+"625","Wade Allen Baker",2015-08-19,"shot","gun",44,"M","W","Canton","North Carolina","True","attack","Not fleeing","False",2015
+"626","Tyler Gerken",2015-08-20,"shot","gun",19,"M","W","Beverly","Ohio","True","attack","Not fleeing","False",2015
+"627","Jeffory Ray Tevis",2015-08-20,"shot and Tasered","unarmed",50,"M","W","Tuscaloosa","Alabama","True","attack","Not fleeing","False",2015
+"628","Raul Herrera",2015-08-20,"shot","gun",17,"M","H","Ontario","California","True","attack","Not fleeing","False",2015
+"629","Timmy Walling",2015-08-21,"shot","gun",57,"M","W","Grapeview","Washington","True","attack","Not fleeing","False",2015
+"630","Charles S. Hall",2015-08-21,"shot","vehicle",30,"M","W","North East","Maryland","False","attack","Car","False",2015
+"631","Alan Joseph Rushton",2015-08-21,"shot","knife",38,"M","W","Wake Forest","North Carolina","False","other","Not fleeing","False",2015
+"632","Adam Schneider",2015-08-22,"shot","gun",31,"M","W","Cohasset","Minnesota","False","attack","Not fleeing","False",2015
+"633","Thaddeus Faison",2015-08-22,"shot and Tasered","gun",39,"M","B","Troy","New York","False","attack","Foot","False",2015
+"634","Jason Lee Alderman",2015-08-22,"shot","carjack",29,"M","W","Bakersfield","California","False","undetermined","Not fleeing","False",2015
+"635","Nicholas Garner",2015-08-22,"shot","vehicle",26,"M","W","Wichita","Kansas","False","attack","Car","False",2015
+"636","Kenneth Henry Morgan",2015-08-22,"shot","knife",64,"M","W","King George","Virginia","False","other","Not fleeing","False",2015
+"637","Richard Francis Compo",2015-08-23,"shot","gun",36,"M","W","Jacksonville","Florida","True","attack","Not fleeing","False",2015
+"638","Christopher Ray Tompkins",2015-08-23,"shot","gun",36,"M","W","Arab","Alabama","False","attack","Car","False",2015
+"639","Julian Hoffman",2015-08-23,"shot","toy weapon",21,"M","W","Brick Township","New Jersey","False","attack","Not fleeing","False",2015
+"640","Bobby Troledge Norris",2015-08-23,"shot","gun",53,"M","B","Archdale","North Carolina","False","attack","Not fleeing","False",2015
+"641","William Lee Snider",2015-08-23,"shot","gun",57,"M","W","Las Vegas","Nevada","False","attack","Not fleeing","False",2015
+"642","Marvin Maestas",2015-08-25,"shot","gun",30,"M","H","Santa Fe","New Mexico","False","attack","Foot","False",2015
+"643","Curtis Smith",2015-08-25,"shot","knife",34,"M","B","West Chester","Pennsylvania","False","attack","Not fleeing","False",2015
+"644","Todd Tomlinson",2015-08-25,"shot","gun",53,"M","W","Thonotosassa","Florida","False","attack","Not fleeing","False",2015
+"645","Shane Rudolph",2015-08-25,"shot","gun",45,"M","W","Phoenix","Arizona","False","attack","Not fleeing","False",2015
+"646","Marvin Arroliga",2015-08-25,"shot","gun",22,"M","H","Miami","Florida","False","attack","Not fleeing","False",2015
+"647","Steven Dodd",2015-08-26,"shot","toy weapon",22,"M","W","Hendersonville","Tennessee","True","attack","Not fleeing","False",2015
+"648","Brent Pickard",2015-08-26,"shot","gun",46,"M","W","Chattanooga","Tennessee","False","attack","Car","False",2015
+"649","Kyle Lambrose",2015-08-26,"shot","gun",27,"M","W","West Jordan","Utah","True","attack","Not fleeing","False",2015
+"650","Bertrand Davis",2015-08-27,"shot and Tasered","box cutter",42,"M","B","Dallas","Texas","False","attack","Not fleeing","False",2015
+"651","Yonas Alehegne",2015-08-27,"shot","chain",30,"M","B","Oakland","California","False","attack","Not fleeing","True",2015
+"652","Robert Hober",2015-08-27,"shot","box cutter",54,"M","W","San Diego","California","False","other","Not fleeing","True",2015
+"653","Manuel Soriano",2015-08-27,"shot","contractor's level",29,"M","H","Los Angeles","California","False","attack","Not fleeing","False",2015
+"654","Gilbert Flores",2015-08-28,"shot","undetermined",41,"M","H","San Antonio","Texas","True","undetermined","Not fleeing","False",2015
+"655","William Evans",2015-08-28,"shot","gun",28,"M","W","Spanish Fork","Utah","True","attack","Not fleeing","True",2015
+"656","Felix Kumi",2015-08-28,"shot","unarmed",61,"M","B","Mount Vernon","New York","False","other","Not fleeing","False",2015
+"657","Devin Brian Dial",2015-08-28,"shot","gun",23,"M","W","Longview","Texas","False","attack","Not fleeing","False",2015
+"658","James Marcus Brown",2015-08-29,"shot","gun",25,"M","B","North Las Vegas","Nevada","False","attack","Foot","False",2015
+"659","Roger Albrecht",2015-08-29,"shot","knife",NA,"M","W","San Antonio","Texas","False","other","Not fleeing","False",2015
+"660","Rafael Cruz Jr",2015-08-29,"shot","unarmed",29,"M","H","Chicago","Illinois","False","undetermined","Car","False",2015
+"661","Shawn Hall",2015-08-30,"shot","gun",20,"M","W","Cushing","Oklahoma","False","attack","Not fleeing","False",2015
+"662","David M.  Leon",2015-08-30,"shot","gun",40,"M","H","Tucson","Arizona","False","attack","Not fleeing","False",2015
+"663","William Rippley",2015-08-31,"shot","knife",45,"M","W","Loveland","Colorado","False","attack","Foot","False",2015
+"664","Cedric Maurice Williams",2015-09-01,"shot","guns and explosives",33,"M","B","Bluefield","West Virginia","False","attack","Foot","False",2015
+"665","Charles Robert Shaw",2015-09-01,"shot","gun",76,"M","W","Twinsburg","Ohio","False","attack","Not fleeing","False",2015
+"666","Michael Todd Evans",2015-09-01,"shot","gun",47,"M","W","Artesia","New Mexico","False","attack","Not fleeing","False",2015
+"667","Arthur Bates",2015-09-02,"shot","gun",45,"M","W","Prescott","Arizona","True","attack","Not fleeing","True",2015
+"668","Freddy Centeno",2015-09-03,"shot","unarmed",40,"M","H","Fresno","California","True","attack","Not fleeing","True",2015
+"669","Curtis James Meyer",2015-09-04,"shot","gun",37,"M","W","Mitchell","South Dakota","True","attack","Not fleeing","False",2015
+"670","Jose Ramon Damiani Jr",2015-09-04,"shot and Tasered","metal pipe",49,"M","H","French Lick","Indiana","False","attack","Not fleeing","False",2015
+"671","Richard Keith Kelley",2015-09-04,"shot","gun",27,"M","W","Weitchpec","California","False","attack","Car","False",2015
+"672","Sully Lanier",2015-09-04,"shot","gun",36,"M","W","Springtown","Texas","False","attack","Not fleeing","False",2015
+"673","Harrison Lambert",2015-09-04,"shot","knife",23,"M","W","Merrimack","New Hampshire","True","other","Not fleeing","False",2015
+"674","La'vante Trevon Biggs",2015-09-05,"shot","gun",21,"M","B","Durham","North Carolina","True","attack","Not fleeing","False",2015
+"675","Luis Wenceslao",2015-09-05,"shot","metal pipe",32,"M","H","Ontario","California","True","other","Not fleeing","True",2015
+"676","Angelo Delano Perry",2015-09-05,"shot","gun",35,"M","B","Virginia Beach","Virginia","False","attack","Not fleeing","False",2015
+"677","India Kager",2015-09-05,"shot","unarmed",28,"F","B","Virginia Beach","Virginia","False","undetermined","Not fleeing","False",2015
+"678","Carlos Yero",2015-09-06,"shot","gun",59,"M","H","Little Havana","Florida","False","attack","Car","False",2015
+"679","Mohamed Ibrahim",2015-09-06,"shot","gun",28,"M","B","Shreveport","Louisiana","True","attack","Car","False",2015
+"680","William Verrett",2015-09-06,"shot","gun",45,"M","W","Hobbs","New Mexico","False","attack","Not fleeing","False",2015
+"681","Casimero Carlos Casillas",2015-09-07,"shot","metal pipe",45,"M","H","Fresno","California","False","other","Foot","True",2015
+"682","Tristan Vent",2015-09-08,"shot","gun",19,"M","N","Fairbanks","Alaska","False","attack","Not fleeing","False",2015
+"683","Dustin Kuik",2015-09-09,"shot","gun",25,"M","W","Ashwaubenon","Wisconsin","False","attack","Not fleeing","False",2015
+"684","Tyrone Holman",2015-09-09,"shot","guns and explosives",37,"M","B","Kansas City","Missouri","True","other","Not fleeing","False",2015
+"685","Vincent J. Perdue",2015-09-09,"shot","gun",33,"M","N","Fairbanks","Alaska","False","attack","Car","False",2015
+"686","William Chau",2015-09-09,"shot","knife",59,"M","A","El Monte","California","False","attack","Not fleeing","False",2015
+"687","Tian Ma",2015-09-10,"shot","knife",31,"M","A","Potsdam","New York","False","attack","Not fleeing","False",2015
+"688","Bruce Santino",2015-09-10,"shot","knife",35,"M",NA,"Fontana","California","True","other","Not fleeing","False",2015
+"689","Brandon Foy",2015-09-10,"shot","gun",29,"M","B","Indianapolis","Indiana","False","attack","Not fleeing","False",2015
+"690","Austin Wilburly  Reid",2015-09-10,"shot","gun",32,"M","W","Lodi","California","False","attack","Foot","False",2015
+"691","Eddie Tapia",2015-09-10,"shot","gun",41,"M","H","Downey","California","False","attack","Car","False",2015
+"692","Robert T. Edwards",2015-09-11,"shot","gun",31,"M","W","Chester","Pennsylvania","False","attack","Not fleeing","False",2015
+"693","Phillip Pfleghardt",2015-09-11,"shot","gun",44,"M","W","Broomfield","Colorado","False","attack","Car","False",2015
+"694","Derick Davis",2015-09-12,"shot","undetermined",23,"M","W","Sylacauga","Alabama","False","undetermined","Other","False",2015
+"695","Jack Stevens Jr.",2015-09-12,"shot","gun",45,"M","W","West Knox","Tennessee","False","attack","Not fleeing","False",2015
+"696","Martin Francis Hammen",2015-09-13,"shot","gun",39,"M","W","Wellman","Iowa","True","attack","Not fleeing","False",2015
+"697","Clifford Butler",2015-09-13,"shot","gun",67,"M","B","McAlester","Oklahoma","True","attack","Not fleeing","False",2015
+"698","Jeffrey Eugene Brooks",2015-09-13,"shot","gun",29,"M","W","Clute","Texas","False","attack","Car","False",2015
+"699","Joseph Thompson Johnson-Shanks",2015-09-14,"shot","gun",25,"M","B","Princeton","Kentucky","False","attack","Car","False",2015
+"700","David Todd Powell",2015-09-14,"shot","unarmed",28,"M","W","Barstow","California","True","attack","Not fleeing","False",2015
+"701","Tyrone Bass",2015-09-15,"shot","unknown weapon",21,"M","B","Chalmette","Louisiana","False","attack","Not fleeing","False",2015
+"702","Florencio Chaidez",2015-09-15,"shot","gun",32,"M","H","Panorama City","California","False","attack","Not fleeing","True",2015
+"703","Jorge  Suarez-Ruiz",2015-09-15,"shot","gun",51,"M","H","Miami","Florida","True","undetermined","Car","False",2015
+"704","Carlos Wilhelm",2015-09-15,"shot","gun",39,"M","H","Los Angeles","California","False","attack","Not fleeing","False",2015
+"705","Bobby R. Anderson",2015-09-15,"shot","gun",27,"M","B","Alexandria","Louisiana","False","other","Not fleeing","False",2015
+"706","Rory Lynn Gunderman",2015-09-16,"shot","gun",31,"M","W","Lead","South Dakota","True","attack","Foot","False",2015
+"707","Mark Gary",2015-09-17,"shot","gun",50,"M","W","Beaverton","Michigan","False","attack","Not fleeing","False",2015
+"708","Lawrence Price",2015-09-17,"shot","gun",NA,"M","W","Brodhead","Kentucky","False","attack","Not fleeing","False",2015
+"709","Nicholas Alan Johnson",2015-09-18,"shot","vehicle",32,"M","W","San Bernardino","California","False","undetermined","Car","False",2015
+"710","Gregory Herrell",2015-09-18,"shot","undetermined",47,"M","W","Dickson","Tennessee","False","undetermined","Not fleeing","False",2015
+"711","Lucien Rolland",2015-09-19,"shot","gun",46,"M","W","Slidell","Louisiana","False","attack","Car","False",2015
+"712","Scott Beech",2015-09-19,"shot","gun",57,"M","W","Washington County","Alabama","True","attack","Not fleeing","True",2015
+"713","Michael Thomas Pierce",2015-09-20,"shot","gun",23,"M","W","Harrisonburg","Virginia","False","attack","Not fleeing","True",2015
+"714","Jerrald Wright",2015-09-20,"shot","gun",56,"M","W","Shelbyville","Indiana","False","attack","Not fleeing","False",2015
+"715","Gerardo Ramirez",2015-09-21,"shot","gun",24,"M","H","Dallas","Texas","True","attack","Not fleeing","False",2015
+"716","William Spaits",2015-09-21,"shot","gun",27,"M","W","Sand City","California","False","attack","Not fleeing","False",2015
+"717","Tina Money",2015-09-21,"shot","gun",23,"F","W","Sand City","California","False","attack","Not fleeing","False",2015
+"718","Steven McKenny",2015-09-21,"shot and Tasered","unarmed",21,"M","W","Paris","Texas","False","attack","Not fleeing","False",2015
+"719","Timothy Wagner",2015-09-21,"shot","gun",26,"M","W","Barberville","Florida","False","attack","Not fleeing","False",2015
+"720","Dominic Fuller",2015-09-21,"shot","stapler",34,"M","H","Auburndale","Florida","False","other","Foot","False",2015
+"721","Dante Osborne",2015-09-22,"shot","gun",32,"M","B","Oakland","California","False","attack","Car","False",2015
+"722","Joel Dixon Smith",2015-09-22,"shot","gun",33,"M","W","Niceville","Florida","True","attack","Not fleeing","False",2015
+"723","Tim Kyle Torngren",2015-09-22,"shot","gun",55,"M","W","Happy Valley","California","True","attack","Not fleeing","False",2015
+"724","Donaven Kyle Anderson",2015-09-22,"shot","gun",26,"M",NA,"North Las Vegas","Nevada","False","attack","Not fleeing","False",2015
+"725","Robert Berger",2015-09-23,"shot","knife",48,"M","O","Salt Lake City","Utah","False","attack","Not fleeing","False",2015
+"726","Joseph Khammash",2015-09-23,"shot","gun",35,"M","W","McKinney","Texas","False","attack","Not fleeing","False",2015
+"727","Keith Harrison McLeod",2015-09-23,"shot","unarmed",19,"M","B","Reisterstown","Maryland","False","other","Foot","False",2015
+"728","Kenneth Ray Pinter",2015-09-23,"shot","gun",45,"M","W","Grayson County","Virginia","False","attack","Not fleeing","False",2015
+"729","Jeremy McDole",2015-09-23,"shot","gun",28,"M","B","Wilmington","Delaware","True","undetermined","Not fleeing","False",2015
+"730","Ernesto Medina Lopez",2015-09-24,"shot","knife",42,"M","H","Miami","Florida","False","attack","Not fleeing","False",2015
+"731","Patrick O'Grady",2015-09-24,"shot","gun",17,"M","W","Fountain","Colorado","False","attack","Not fleeing","False",2015
+"732","Philip Quinn",2015-09-24,"shot","screwdriver",30,"M","O","St. Paul","Minnesota","True","other","Not fleeing","False",2015
+"733","William Lemmon",2015-09-25,"shot","unarmed",21,"M","W","Akron","Ohio","False","undetermined","Other","False",2015
+"734","James Anderson",2015-09-25,"shot and Tasered","box cutter",33,"M","B","Chicago","Illinois","False","other","Not fleeing","False",2015
+"735","Jeffrey Blood",2015-09-25,"shot","gun",45,"M","W","Wilhoit","Arizona","False","attack","Not fleeing","False",2015
+"736","Anthony McKinney",2015-09-26,"shot","knife",46,"M","B","Baton Rouge","Louisiana","False","attack","Not fleeing","False",2015
+"737","Alejandro Lerma",2015-09-26,"shot","gun",23,"M","H","Lovington","New Mexico","False","attack","Not fleeing","False",2015
+"738","Norma Angelica Guzman",2015-09-27,"shot","knife",37,"F","H","Los Angeles","California","True","other","Not fleeing","True",2015
+"739","Christopher Shell",2015-09-27,"shot","gun",43,"M","W","Rossville","Georgia","False","attack","Not fleeing","False",2015
+"740","Victor Oswaldo Coronado-Martinez",2015-09-27,"shot","gun",40,"M","H","Ponder","Texas","False","attack","Not fleeing","False",2015
+"741","Junior Prosper",2015-09-28,"shot and Tasered","unarmed",31,"M","B","Miami","Florida","False","attack","Foot","False",2015
+"742","Alberto Hernandez",2015-09-28,"shot","toy weapon",59,"M","H","San Ysidro","California","False","attack","Not fleeing","True",2015
+"743","Patrick Stephen Lundstrom",2015-09-29,"shot","blunt object",46,"M","N","Rapid City","South Dakota","False","attack","Not fleeing","False",2015
+"744","Robert  Christen",2015-09-29,"shot","unarmed",37,"M","W","Mora","Minnesota","False","attack","Not fleeing","False",2015
+"745","Brandon Lamar Johnson",2015-09-30,"shot","gun",28,"M","B","Beckley","West Virginia","False","attack","Car","False",2015
+"746","David M. Diaz",2015-10-02,"shot","gun",28,"M","H","Sierra Vista","Arizona","False","attack","Car","False",2015
+"747","Christian Pena",2015-10-02,"shot and Tasered","knife",26,"M","H","Rialto","California","False","attack","Not fleeing","False",2015
+"748","Phyllis Ilene Jepsen",2015-10-02,"shot","knife",55,"F","W","Aloha","Oregon","True","other","Not fleeing","False",2015
+"749","Matthew Dobbins",2015-10-02,"shot","unarmed",29,"M","W","Amarillo","Texas","False","undetermined","Not fleeing","False",2015
+"750","James Joseph Byrd",2015-10-04,"shot","beer bottle",45,"M",NA,"Van Nuys","California","False","undetermined","Not fleeing","False",2015
+"751","Eric Edgell",2015-10-04,"shot","gun",27,"M","W","Muscle Shoals","Alabama","True","attack","Foot","False",2015
+"752","Jeffery McCallum",2015-10-04,"shot","gun",31,"M","B","Chicago","Illinois","False","attack","Not fleeing","False",2015
+"753","James  Dunaway",2015-10-05,"shot","gun",51,"M","W","Hurst","Texas","False","attack","Foot","False",2015
+"754","Rodney Jencsik",2015-10-05,"shot","gun",50,"M","W","Woodbridge","New Jersey","False","attack","Not fleeing","False",2015
+"755","Omar Ali",2015-10-05,"shot","unarmed",27,"M","O","Akron","Ohio","False","other","Not fleeing","False",2015
+"756","Charles A. Pettit",2015-10-05,"shot","gun",18,"M","B","Midwest City","Oklahoma","False","attack","Not fleeing","False",2015
+"757","Donald Miller II",2015-10-06,"shot","gun",39,"M",NA,"Monterey","California","True","attack","Not fleeing","False",2015
+"758","Amado Lago",2015-10-07,"shot","machete",46,"M","H","West Palm Beach","Florida","False","attack","Not fleeing","False",2015
+"759","Gary Carmona Boitano",2015-10-09,"shot","knife",19,"M","B","Columbia","Maryland","False","other","Not fleeing","False",2015
+"760","Margaret Wagner",2015-10-09,"shot","gun",62,"F",NA,"Aguanga","California","False","attack","Not fleeing","False",2015
+"761","Christopher Whitmarsh",2015-10-10,"shot","vehicle",49,"M","W","Beverly","Massachusetts","True","attack","Not fleeing","False",2015
+"762","Richard Love",2015-10-10,"shot","gun",31,"M","W","Old Saybrook","Connecticut","False","attack","Not fleeing","False",2015
+"763","William Combs",2015-10-10,"shot","vehicle",38,"M","W","Pinion Hills","California","True","other","Car","False",2015
+"764","Travis Quay",2015-10-10,"shot","crossbow",40,"M","W","Cato Township","Michigan","False","attack","Not fleeing","False",2015
+"765","Anthony Aguilar",2015-10-10,"shot and Tasered","unknown weapon",35,"M","H","Lisle","Illinois","False","undetermined","Not fleeing","False",2015
+"766","Joe Pasquez Ortiz",2015-10-11,"shot","undetermined",34,"M","H","San Bernardino","California","False","undetermined","Other","False",2015
+"767","Kevin Lau",2015-10-11,"shot","gun",44,"M","A","Lakes Charles","Louisiana","False","attack","Not fleeing","False",2015
+"768","Bernard Brandon Powers",2015-10-11,"shot","gun",23,"M","B","Taylors","South Carolina","False","attack","Not fleeing","False",2015
+"769","Robert Humberto Medellin",2015-10-11,"shot","machete",43,"M","H","West Odessa","Texas","False","other","Car","False",2015
+"770","Jason Day",2015-10-12,"shot","gun",NA,"M","B","Lawton","Oklahoma","False","attack","Not fleeing","False",2015
+"771","Rudolph Smith",2015-10-12,"shot","gun",31,"M","W","Brookhaven","Mississippi","False","attack","Not fleeing","False",2015
+"772","Brent Brannon",2015-10-14,"shot","gun",27,"M","W","Cartersville","Georgia","False","attack","Not fleeing","False",2015
+"773","Michelle Marie Burg",2015-10-14,"shot","gun",46,"F","W","Naples","Florida","True","attack","Car","False",2015
+"774","Samuel Villarreal",2015-10-14,"shot","vehicle",18,"M","H","Indio","California","False","other","Car","False",2015
+"775","Michael Donald Clark",2015-10-14,"shot","gun",59,"M",NA,"Seaside","California","False","attack","Not fleeing","False",2015
+"776","Leslie Portis",2015-10-14,"shot","gun",57,"M","B","Monroeville","Alabama","False","attack","Not fleeing","False",2015
+"777","Jorge Santiago Tapia",2015-10-15,"shot","gun",15,"M","H","Miami","Florida","False","attack","Car","False",2015
+"778","Kaleb Alexander",2015-10-15,"shot","gun",25,"M","B","Columbus","Ohio","False","attack","Not fleeing","False",2015
+"779","Linda Lee Lush",2015-10-15,"shot","gun",50,"F","W","Las Vegas","Nevada","True","attack","Car","False",2015
+"780","Michael J. Brennan",2015-10-15,"shot","gun",31,"M","W","Parma","Ohio","False","attack","Car","False",2015
+"781","Robert Burgess",2015-10-15,"shot","gun",35,"M","W","Kirkland","Washington","False","attack","Foot","False",2015
+"782","Herbert Benitez",2015-10-15,"shot","gun",27,"M","H","San Francisco","California","False","attack","Not fleeing","False",2015
+"783","Martin  Ryans Jr.",2015-10-15,"shot","gun",20,"M","B","Houston","Texas","False","attack","Not fleeing","False",2015
+"784","Johnny Angel Rangel",2015-10-16,"shot","unarmed",27,"M","H","Valinda","California","False","attack","Not fleeing","False",2015
+"785","Jason Foreman",2015-10-16,"shot","gun",45,"M",NA,"Barrow County","Georgia","False","attack","Not fleeing","False",2015
+"786","Ricky Javenta Ball",2015-10-16,"shot","undetermined",33,"M","B","Columbus","Mississippi","False","undetermined","Foot","False",2015
+"787","Gino Paredes",2015-10-17,"shot","toy weapon",22,"M","H","Modesto","California","False","attack","Not fleeing","False",2015
+"788","Dequan Williams",2015-10-17,"shot and Tasered","knife",28,"M","B","York","Pennsylvania","True","other","Not fleeing","False",2015
+"789","Corey Jones",2015-10-18,"shot","gun",31,"M","B","Palm Beach Gardens","Florida","False","undetermined","Not fleeing","False",2015
+"790","Krikor Ekizian",2015-10-18,"shot","knife",28,"M","W","Fresno","California","True","attack","Not fleeing","False",2015
+"791","Dion Lamont Ramirez",2015-10-19,"shot","vehicle",53,"M","B","Los Angeles","California","False","attack","Not fleeing","False",2015
+"792","Roger D.  Hall",2015-10-20,"shot","toy weapon",30,"M","W","Louisville","Kentucky","False","attack","Not fleeing","False",2015
+"793","Lamontez Jones",2015-10-20,"shot","toy weapon",39,"M","B","San Diego","California","False","attack","Not fleeing","False",2015
+"794","Joel Lopes",2015-10-20,"shot","gun",40,"M","H","Truth or Consequences","New Mexico","False","attack","Not fleeing","False",2015
+"795","Darien Greenwood",2015-10-20,"shot","knife",30,"M","W","Mandeville","Louisiana","False","attack","Not fleeing","False",2015
+"796","Jonathan Tyler Gossman",2015-10-20,"shot","gun",21,"M","W","Cedar Rapids","Iowa","False","attack","Foot","False",2015
+"797","Miguel Angel Marin Galena",2015-10-21,"shot","knife",35,"M","H","Calexico","California","False","other","Other","False",2015
+"798","Ryan Christopher Rodriguez",2015-10-21,"shot","unarmed",21,"M","H","West Goshen","California","True","attack","Not fleeing","False",2015
+"799","Timothy Arnold",2015-10-21,"shot","gun",47,"M","W","Kentwood","Michigan","True","attack","Not fleeing","False",2015
+"800","Lawrence Green",2015-10-22,"shot","knife",38,"M","B","Shreveport","Louisiana","False","attack","Not fleeing","False",2015
+"801","Adriene Jamarr Ludd",2015-10-22,"shot","gun",36,"M","B","Carmichael","California","False","attack","Car","False",2015
+"802","Stephen H. Brock",2015-10-22,"shot","undetermined",53,"M","W","Pine Top","Kentucky","False","other","Not fleeing","False",2015
+"803","John Tozzi",2015-10-24,"shot","gun",NA,"M",NA,"New Paltz","New York","False","attack","Not fleeing","False",2015
+"804","Juan Ulloa",2015-10-24,"shot","gun",34,"M","H","Highgrove","California","False","attack","Not fleeing","False",2015
+"805","Rolly Thomas",2015-10-24,"shot","gun",34,"M","B","Cape Coral","Florida","False","attack","Not fleeing","True",2015
+"806","Dominic Hutchinson",2015-10-24,"shot","undetermined",30,"M","B","Cathedral City","California","False","undetermined","Not fleeing","False",2015
+"807","Arthur West",2015-10-24,"shot","gun",28,"M","W","Zanesville","Ohio","True","attack","Not fleeing","False",2015
+"808","Darren Myron Fude",2015-10-24,"shot","gun",47,"M","W","Paddock Lake","Wisconsin","False","attack","Not fleeing","False",2015
+"809","Jon Ployhar",2015-10-24,"shot","undetermined",49,"M","W","Kenai Peninsula","Alaska","False","attack","Not fleeing","False",2015
+"810","John Harley Turner",2015-10-25,"shot","gun",36,"M","W","Talking Rock","Georgia","False","attack","Not fleeing","False",2015
+"811","Kevin Brunson",2015-10-26,"shot","vehicle",45,"M","B","Frederick","Maryland","False","other","Not fleeing","False",2015
+"812","Marquesha McMillan",2015-10-26,"shot","gun",21,"F","B","Washington","District Of Columbia","False","attack","Not fleeing","False",2015
+"813","Kobvey Igbuhay",2015-10-26,"shot","unarmed",18,"M","O","Tampa","Florida","False","attack","Foot","False",2015
+"814","Tyrie Cuyler",2015-10-27,"shot","gun",25,"M","B","Savannah","Georgia","False","attack","Not fleeing","True",2015
+"815","Anthony Ashford",2015-10-28,"shot","unarmed",29,"M","B","Point Loma","California","False","attack","Not fleeing","False",2015
+"816","Ricky Keith Keeton",2015-10-28,"shot","gun",57,"M","W","Smithville","Mississippi","False","attack","Not fleeing","False",2015
+"817","Jerry Michael Graham Jr.",2015-10-28,"shot","gun",34,"M","B","Jacksonville","Florida","False","attack","Not fleeing","False",2015
+"818","Jasper Levi Adams",2015-10-28,"shot","gun",35,"M","W","Salem","Oregon","False","attack","Car","False",2015
+"819","Deaunte Lamar Bell",2015-10-29,"shot","gun",NA,"M","B","Columbus","Ohio","False","other","Not fleeing","False",2015
+"820","Allen Quintez Swader",2015-10-29,"shot","gun",18,"M","W","Hohenwald","Tennessee","False","attack","Not fleeing","False",2015
+"821","Floyd Ray Cook",2015-10-30,"shot","gun",62,"M","W","Burkesville","Kentucky","False","attack","Other","False",2015
+"822","Mario Martinez",2015-10-30,"shot","gun",29,"M","H","Mesquite","Texas","False","attack","Car","False",2015
+"823","Tony Berry",2015-10-30,"shot","gun",25,"M","B","Houston","Texas","False","other","Foot","False",2015
+"824","Daniel Nole",2015-10-30,"shot and Tasered","knife",30,"M","W","Norwood","Oklahoma","False","attack","Foot","False",2015
+"825","Noah Harpham",2015-10-31,"shot","gun",33,"M","W","Colorado Springs","Colorado","False","attack","Not fleeing","False",2015
+"826","Bennie Lee Tignor",2015-10-31,"shot","unarmed",56,"M","B","Opelika","Alabama","False","other","Car","False",2015
+"827","Luverne Roy Christensen",2015-11-01,"shot","gun",49,"M","W","Hutchinson","Minnesota","False","attack","Not fleeing","False",2015
+"828","Killian O'Quinn",2015-11-01,"shot","gun",20,"M","W","Eureka","California","False","attack","Not fleeing","False",2015
+"829","Jack Yantis",2015-11-01,"shot","gun",62,"M","W","Council","Idaho","False","undetermined","Not fleeing","True",2015
+"830","James Covington",2015-11-02,"shot","gun",62,"M","B","Washington","District Of Columbia","False","attack","Car","False",2015
+"831","Jeremy Mardis",2015-11-03,"shot","unarmed",6,"M","W","Marksville","Louisiana","False","other","Car","True",2015
+"832","Joseph Tyndall",2015-11-04,"shot","gun",30,"M","W","Springfield","Missouri","False","attack","Foot","False",2015
+"833","John Allen",2015-11-04,"shot","gun",57,"M","B","Houston","Texas","False","attack","Car","False",2015
+"834","Faisal Mohammad",2015-11-04,"shot","knife",18,"M","O","Merced","California","False","attack","Foot","False",2015
+"835","Timothy Gene Smith",2015-11-04,"shot","unarmed",47,"M","W","Pacific Beach","California","False","other","Foot","True",2015
+"836","David  Romanoski",2015-11-05,"shot","gun",48,"M","W","Morgantown","West Virginia","False","attack","Not fleeing","False",2015
+"837","James Bigley",2015-11-05,"shot","gun",20,"M","W","Hominy","Oklahoma","True","attack","Car","False",2015
+"838","Jacob Hohman",2015-11-05,"shot","hammer",30,"M","W","Lakeshire","Missouri","False","attack","Not fleeing","False",2015
+"839","Laura Lemieux",2015-11-05,"shot","gun",36,"F","W","Goose Creek","South Carolina","True","attack","Not fleeing","False",2015
+"840","Michael  Johnson",2015-11-06,"shot","gun",51,"M","W","Portland","Oregon","True","attack","Not fleeing","False",2015
+"841","James Francis Smyth",2015-11-06,"shot","vehicle",55,"M","W","Las Vegas","Nevada","False","other","Car","False",2015
+"842","Kim Lee Long",2015-11-06,"shot","undetermined",48,"M","W","Wadesboro","North Carolina","False","undetermined","Not fleeing","False",2015
+"843","Delvin Simmons",2015-11-09,"shot","vehicle",20,"M","B","Spartanburg","South Carolina","False","attack","Car","False",2015
+"844","Cesar Cuellar",2015-11-09,"shot","gun",25,"M","H","North Laredo","Texas","True","attack","Not fleeing","False",2015
+"845","Dale Maverick Hudson",2015-11-09,"shot","gun",26,"M","W","Braxton County","West Virginia","False","attack","Not fleeing","False",2015
+"846","Leonel Acevedo",2015-11-09,"shot","gun",45,"M","H","San Jose","California","False","attack","Not fleeing","False",2015
+"847","Miguel Cano",2015-11-09,"shot and Tasered","bean-bag gun",35,"M","H","Los Angeles","California","False","other","Not fleeing","False",2015
+"848","Dana Bruce Ott",2015-11-10,"shot","gun",63,"M","W","Colorado Springs","Colorado","False","attack","Not fleeing","False",2015
+"849","Eddie Gabriel Sanchez",2015-11-10,"shot","gun",34,"M","H","Chico","California","False","attack","Not fleeing","False",2015
+"850","Jason Leanard Mesaros",2015-11-10,"shot","vehicle",36,"M","H","Brighton","Colorado","False","other","Car","False",2015
+"851","Andrew Blake",2015-11-10,"shot","gun",22,"M","W","Dillon","Montana","False","attack","Not fleeing","False",2015
+"852","Joseph Jaramillo",2015-11-11,"shot","vehicle",31,"M","H","Albuquerque","New Mexico","False","other","Car","False",2015
+"853","Javier Lopez Garcia",2015-11-11,"shot","gun",25,"M","H","San Francisco","California","False","attack","Not fleeing","False",2015
+"854","Brian Gavin",2015-11-11,"shot","gun",57,"M","W","Aiken","South Carolina","False","attack","Not fleeing","False",2015
+"855","Ryan Quinn Martin",2015-11-11,"shot","gun",32,"M","B","Baltimore","Maryland","False","attack","Not fleeing","False",2015
+"856","Moises Nero",2015-11-12,"shot","knife",42,"M","B","Sunnyvale","California","False","other","Not fleeing","False",2015
+"857","Michael Joseph Bartkiewicz",2015-11-13,"shot","unknown weapon",52,"M","W","Gibson County","Tennessee","False","attack","Not fleeing","False",2015
+"858","Ernesto Gamino",2015-11-13,"shot","undetermined",25,"M","H","Jurupa Valley","California","False","undetermined",NA,"False",2015
+"859","Matthew Coleman",2015-11-13,"shot","gun",25,"M","W","Eden","Georgia","False","attack","Foot","False",2015
+"860","Ramon Salazar",2015-11-14,"shot","hammer",31,"M","H","Jurupa Valley","California","False","other","Not fleeing","False",2015
+"861","Richard Perkins",2015-11-15,"shot","toy weapon",39,"M","B","Oakland","California","False","attack","Not fleeing","False",2015
+"862","John David Livingston",2015-11-15,"shot and Tasered","Taser",32,"M","W","Spring Lake","North Carolina","False","attack","Not fleeing","False",2015
+"863","Shane Whitehead",2015-11-15,"shot","unknown weapon",16,"M","B","Germantown","Pennsylvania","False","attack","Not fleeing","False",2015
+"864","Jamar Clark",2015-11-15,"shot","unarmed",24,"M","B","Minneapolis","Minnesota","False","undetermined","Not fleeing","False",2015
+"865","Cameron Davis Long",2015-11-16,"shot","vehicle",28,"M","W","Leon County","Texas","False","undetermined","Car","False",2015
+"866","Brent Noblitt",2015-11-16,"shot","vehicle",25,"M","W","Whitfield County","Georgia","False","other","Car","False",2015
+"867","Michael Tindall",2015-11-17,"shot","gun",41,"M","W","Weatherford","Texas","False","undetermined","Car","False",2015
+"868","Yohans Leon",2015-11-17,"shot","gun",28,"M","B","Miami","Florida","True","attack","Foot","False",2015
+"869","Demetrius Bryant",2015-11-17,"shot","gun",21,"M","B","Cayce","South Carolina","False","attack","Not fleeing","False",2015
+"870","Jeray Chatham",2015-11-17,"shot","vehicle",30,"M","B","Weatherford","Texas","False","other","Car","False",2015
+"871","Derry Touchstone",2015-11-17,"shot","unarmed",58,"M","W","Arlington","Georgia","False","other","Not fleeing","False",2015
+"872","Francis Hartnett",2015-11-17,"shot","gun",47,"M","W","Little Egg Harbor","New Jersey","True","attack","Not fleeing","False",2015
+"873","Cornelius Brown",2015-11-18,"shot","unknown weapon",25,"M","B","Opa-Locka","Florida","False","other","Not fleeing","False",2015
+"874","Marcus Meridy",2015-11-18,"shot","gun",44,"M","B","Berrien County","Michigan","False","attack","Not fleeing","False",2015
+"875","Randy Allen Smith",2015-11-19,"shot","gun",34,"M","B","Manatee","Florida","False","attack",NA,"False",2015
+"876","Steve Dormil",2015-11-19,"shot","knife",27,"M","B","Fort Pierce","Florida","False","attack","Not fleeing","False",2015
+"877","Darick Napper",2015-11-19,"shot","knife",34,"M","B","Washington","District Of Columbia","False","other","Not fleeing","False",2015
+"878","William Tarrant",2015-11-20,"shot","gun",39,"M","W","Paulding County","Georgia","True","attack","Not fleeing","False",2015
+"879","Nathaniel Harris Pickett",2015-11-20,"shot","unarmed",29,"M","B","Barstow","California","True","attack","Not fleeing","False",2015
+"880","Chris Nichols",2015-11-21,"shot","unarmed",24,"M","W","Colbert","Oklahoma","False","attack","Foot","False",2015
+"881","James Daniel Hall",2015-11-22,"shot","knife",47,"M","W","Fontana","California","True","attack","Not fleeing","False",2015
+"882","Matthew Grows",2015-11-22,"shot","gun",45,"M","W","Reno","Nevada","False","attack","Not fleeing","False",2015
+"883","Miguel Angel Martinez",2015-11-22,"shot","gun",28,"M","H","Denver","Colorado","False","attack","Not fleeing","False",2015
+"884","Henry Reyna",2015-11-23,"shot and Tasered","knife",49,"M","H","Corpus Christi","Texas","False","other","Not fleeing","True",2015
+"885","Barry Kirk",2015-11-23,"shot","gun",50,"M","W","Columbus","Ohio","False","attack","Not fleeing","False",2015
+"886","Michael Kirvelay",2015-11-24,"shot","unknown weapon",45,"M","W","Columbia Heights","Minnesota","False","undetermined","Not fleeing","False",2015
+"887","Thomas Joseph Mceniry",2015-11-24,"shot and Tasered","gun",32,"M","W","Las Vegas","Nevada","True","attack","Foot","True",2015
+"888","Freddy Baez",2015-11-24,"shot","gun",24,"M","B","Camden","New Jersey","False","attack","Not fleeing","False",2015
+"889","Magnum Edgar Phillips",2015-11-25,"shot","knife",23,"M","W","Springfield","Missouri","False","attack","Not fleeing","False",2015
+"890","Douglas R. Slade",2015-11-25,"shot","gun",52,"M","W","Eagar","Arizona","False","attack","Not fleeing","False",2015
+"891","Somer Speer",2015-11-25,"shot","gun",37,"F","W","Ozark","Missouri","False","attack","Not fleeing","False",2015
+"892","Andrew Thomas",2015-11-26,"shot","unarmed",26,"M","W","Chico","California","False","other","Car","True",2015
+"893","Rick Gullickson",2015-11-27,"shot","gun",58,"M","W","Lampe","Missouri","False","attack","Not fleeing","False",2015
+"894","Kevin Close",2015-11-28,"shot","baseball bat and fireplace poker",50,"M","W","Seagoville","Texas","False","other","Not fleeing","False",2015
+"895","Justin D. McHenry",2015-11-29,"shot","gun",22,"M","W","Celina","Ohio","False","attack","Not fleeing","False",2015
+"896","Lionel Kerns",2015-11-29,"shot","gun",53,"M","W","Maysville","Missouri","False","attack","Not fleeing","False",2015
+"897","Ralph Aguilar",2015-11-29,"shot","gun",69,"M","H","Sun City","Arizona","True","attack","Not fleeing","False",2015
+"898","Hugo Fernando Celio",2015-11-29,"shot","gun",23,"M","H","Bakersfield","California","False","attack","Foot","False",2015
+"899","Zachary Grigsby",2015-11-29,"shot","gun",29,"M","W","Lincoln","Nebraska","False","attack",NA,"False",2015
+"900","Tuan Hoang",2015-11-30,"shot","vehicle",25,"M","A","Aurora","Colorado","False","attack","Car","False",2015
+"901","Darius Smith",2015-11-30,"shot","gun",18,"M","B","Atlanta","Georgia","False","attack","Foot","False",2015
+"902","Fernando Sauceda",2015-11-30,"shot","undetermined",31,"M","H","Wink","Texas","False","other","Not fleeing","False",2015
+"903","Joshua  Jozefowicz",2015-12-01,"shot","gun",23,"M","W","Bangor","Maine","False","attack","Foot","False",2015
+"904","John Anthony Gonzalez",2015-12-01,"shot","gun",18,"M","H","Norwalk","California","False","attack","Not fleeing","False",2015
+"905","Phillip Munoz",2015-12-02,"shot","gun",35,"M","H","Denver","Colorado","False","attack","Car","False",2015
+"906","Tashfeen Malik",2015-12-02,"shot","gun",27,"F","O","San Bernardino","California","False","attack","Car","False",2015
+"907","Syed Farook",2015-12-02,"shot","gun",28,"M","O","San Bernardino","California","False","attack","Car","False",2015
+"908","Mario Woods",2015-12-02,"shot","knife",26,"M","B","San Francisco","California","False","other","Not fleeing","False",2015
+"909","Allen Pacheco",2015-12-02,"shot","gun",32,"M","H","San Antonio","Texas","False","other","Not fleeing","False",2015
+"910","Florencio Lucero",2015-12-02,"shot","gun",36,"M","H","Deming","New Mexico","False","attack","Not fleeing","False",2015
+"911","Neil Scott Stretesky",2015-12-03,"shot","gun",66,"M","W","Big Springs","Nebraska","False","attack","Not fleeing","False",2015
+"912","Ivan Krstic",2015-12-04,"shot and Tasered","metal stick",47,"M","W","Mesa","Arizona","False","other","Not fleeing","False",2015
+"913","Raymone M. Davis",2015-12-04,"shot","gun",21,"M","B","Mount Washington","Pennsylvania","False","attack","Not fleeing","False",2015
+"914","Colten Price Marcellus",2015-12-05,"shot","gun",24,"M","W","Irving","Texas","False","attack","Foot","False",2015
+"915","David  Winesett",2015-12-05,"shot and Tasered","straight edge razor",51,"M","W","Miami","Florida","False","other","Not fleeing","True",2015
+"916","Michael L. Funk",2015-12-05,"shot","gun",60,"M","W","Neenah","Wisconsin","False","other","Not fleeing","False",2015
+"917","Sheilah Huck",2015-12-05,"shot","gun",61,"F","W","St. Louis","Missouri","False","attack","Not fleeing","False",2015
+"918","Juan Perez",2015-12-05,"shot","gun",38,"M","H","Indio","California","False","attack","Not fleeing","False",2015
+"919","Raymond Azevedo",2015-12-06,"shot","gun",35,"M","W","Seattle","Washington","False","attack","Car","False",2015
+"920","Carlumandarlo Zaramo",2015-12-06,"shot","gun",46,"M","B","Richmond Heights","Ohio","True","attack","Not fleeing","False",2015
+"921","John Alan Britton",2015-12-06,"shot","knife",48,"M","W","Laramie","Wyoming","True","other","Not fleeing","False",2015
+"922","Miguel Espinal",2015-12-08,"shot","unarmed",36,"M","B","Yonkers","New York","False","other","Foot","False",2015
+"923","Derek Stokes",2015-12-08,"shot","gun",33,"M","B","Cleveland","Ohio","False","attack","Not fleeing","False",2015
+"924","Christopher Higdon",2015-12-09,"shot","gun",66,"M","W","Leitchfield","Kentucky","False","attack","Not fleeing","False",2015
+"925","Sammy Monroe Echols",2015-12-09,"shot","gun",51,"M",NA,"Pryor","Oklahoma","True","attack","Not fleeing","False",2015
+"926","Jason Bryant",2015-12-10,"shot","gun",34,"M","W","Indianapolis","Indiana","False","attack","Not fleeing","False",2015
+"927","Charles Edward Rosemond",2015-12-10,"shot","gun",55,"M","B","Taylors","South Carolina","False","attack","Not fleeing","False",2015
+"928","Thomas Arthur Gendreau",2015-12-10,"shot","knife",54,"M","W","Marina","California","False","attack","Not fleeing","False",2015
+"929","TK TK",2015-12-10,"shot","gun",NA,"M",NA,"Hemet","California","False","attack","Not fleeing","False",2015
+"930","Steven Wickert",2015-12-11,"shot","unarmed",36,"M","W","Tucson","Arizona","False","attack","Not fleeing","False",2015
+"931","Christopher Goodlow",2015-12-12,"shot","knife",25,"M","B","Indianapolis","Indiana","True","attack","Not fleeing","False",2015
+"932","Javario Shante Eagle",2015-12-12,"shot","gun and knife",24,"M","B","Chattanooga","Tennessee","False","attack","Not fleeing","False",2015
+"933","Nicholas Robertson",2015-12-12,"shot","gun",28,"M","B","Lynwood","California","False","attack","Not fleeing","False",2015
+"934","Jonathan Wardlow",2015-12-12,"shot","Taser",36,"M","W","Healdton","Oklahoma","False","attack","Not fleeing","False",2015
+"935","Andrew Jospeh Todd",2015-12-12,"shot","gun",20,"M","W","East Stroudsburg","Pennsylvania","True","attack","Not fleeing","False",2015
+"936","Roy Carreon",2015-12-12,"shot","knife",49,"M","H","San Bernardino","California","False","attack",NA,"False",2015
+"937","Efrain Villanueva",2015-12-12,"shot","unknown weapon",NA,"M",NA,"Aurora","Colorado","False","attack",NA,"False",2015
+"938","Shirley  Weis",2015-12-13,"shot","gun",51,"F","W","Arlington","Texas","True","attack","Not fleeing","False",2015
+"939","Ryan McMillan",2015-12-13,"shot","ax",21,"M","W","Denton","Texas","True","other","Not fleeing","False",2015
+"940","Nephi  Leiataua",2015-12-13,"shot","knife",30,"M","O","Thurston County","Washington","False","attack","Not fleeing","False",2015
+"941","Enrique Gonzalez",2015-12-13,"shot","gun",32,"M","H","Mountain View","Colorado","False","attack","Not fleeing","False",2015
+"942","Calvin McKinnis",2015-12-14,"shot","gun",33,"M","B","New Orleans","Louisiana","False","attack","Not fleeing","True",2015
+"943","Jeffrey Gene Evans",2015-12-14,"shot and Tasered","knife",52,"M","W","Middle River","Maryland","True","other","Not fleeing","False",2015
+"944","Michael  Thomason",2015-12-14,"shot","undetermined",56,"M","W","Humboldt","Tennessee","False","undetermined","Not fleeing","False",2015
+"945","Brenda Dean Kimberling",2015-12-14,"shot","gun",48,"F","W","Las Vegas","Nevada","True","attack","Not fleeing","False",2015
+"946","Mharloun Verdejo  Saycon",2015-12-14,"shot","knife",39,"M","A","Long Beach","California","False","other","Not fleeing","False",2015
+"947","Hector Alvarez",2015-12-14,"shot","undetermined",19,"M","H","Gilroy","California","False","undetermined",NA,"True",2015
+"948","Roberto Sanchez",2015-12-14,"shot","gun",45,"M","H","Las Vegas","Nevada","False","attack","Not fleeing","False",2015
+"949","Mark Toney",2015-12-14,"shot","gun",33,"M","W","Mount Hope","West Virginia","False","attack","Not fleeing","False",2015
+"950","Ronnie Dubose Carter",2015-12-15,"shot","vehicle",51,"M","B","Dallas","North Carolina","False","attack","Car","False",2015
+"951","Bryant Neil Duncan",2015-12-16,"shot","knife",NA,"M","W","Camarillo","California","True","attack","Not fleeing","False",2015
+"952","Douglas Yon",2015-12-17,"shot","machete",25,"M","W","Kent","Ohio","True","other","Not fleeing","False",2015
+"953","Christopher Fletcher",2015-12-17,"shot","gun",24,"M","W","Modesto","California","False","attack","Other","False",2015
+"954","Erica Lauro",2015-12-18,"shot","gun",22,"F","W","Northwood","Ohio","False","attack","Other","False",2015
+"955","Amos Frerichs",2015-12-18,"shot","vehicle",32,"M","W","Knoxville","Tennessee","False","attack","Car","False",2015
+"956","Robert L. Martinez",2015-12-18,"shot","gun",58,"M","H","Taos","New Mexico","False","attack","Not fleeing","False",2015
+"957","Trayvon Scruggs",2015-12-19,"shot","gun",24,"M","B","Concord","Virginia","False","attack",NA,"False",2015
+"958","Ruben Jose Herrera",2015-12-19,"shot","undetermined",26,"M","H","Los Angeles","California","True","attack","Not fleeing","False",2015
+"959","Leroy Browning",2015-12-20,"shot","gun",30,"M","B","Palmdale","California","False","attack","Not fleeing","False",2015
+"960","Mark  Ramirez",2015-12-20,"shot","gun",31,"M","H","Amarillo","Texas","True","attack","Not fleeing","False",2015
+"961","Guadalupe Quiroz",2015-12-21,"shot","gun",34,"M","H","Hemet","California","False","attack","Not fleeing","False",2015
+"962","Bobby Daniels",2015-12-21,"shot","gun",48,"M","B","Douglasville","Georgia","False","attack","Not fleeing","False",2015
+"963","Michael Noel",2015-12-21,"shot","unarmed",NA,"M","B","Breaux Bridge","Louisiana","True","other","Not fleeing","False",2015
+"964","Derek DeGroat",2015-12-21,"shot","gun",21,"M","W","Canaan Township","Pennsylvania","True","attack","Not fleeing","False",2015
+"965","Robert L. Teter",2015-12-21,"shot","gun",39,"M","W","Deltona","Florida","False","attack","Not fleeing","False",2015
+"966","Chan Leith",2015-12-21,"shot","gun",25,"M","B","Aurora","Colorado","False","attack","Not fleeing","False",2015
+"967","Brandon Barsnick",2015-12-21,"shot","gun",30,"M","W","Smartsville","California","False","attack","Not fleeing","False",2015
+"968","Charles Reynolds",2015-12-22,"shot","gun",61,"M",NA,"Ludlow","Kentucky","False","attack","Not fleeing","True",2015
+"969","Kenneth Stephens",2015-12-22,"shot","gun",56,"M","W","Burlington","Vermont","False","attack","Not fleeing","True",2015
+"970","Michael Hilber",2015-12-22,"shot","undetermined",29,"M","W","Brooksville","Florida","False","undetermined","Car","False",2015
+"971","Jose  Rodriguez",2015-12-22,"shot","gun",19,"M","H","Albuquerque","New Mexico","False","undetermined","Foot","True",2015
+"972","Kevin Matthews",2015-12-23,"shot","unarmed",35,"M","B","Dearborn","Michigan","True","other","Not fleeing","False",2015
+"973","Schuylar Gunning",2015-12-24,"shot","vehicle",36,"M","W","Winnsboro","Louisiana","False","other","Car","False",2015
+"974","Gregory Sanders",2015-12-24,"shot","gun",54,"M",NA,"Pride","Louisiana","True","attack","Not fleeing","False",2015
+"975","Terrozza Tyree Griffin",2015-12-24,"shot","gun",24,"M","B","Lansing","Michigan","False","attack","Not fleeing","False",2015
+"976","Omar Ventura",2015-12-24,"shot","knife",23,"M","H","Porterville","California","False","other","Not fleeing","False",2015
+"977","Daquan Antonio Westbrook",2015-12-24,"shot","gun",18,"M","B","Charlotte","North Carolina","False","attack","Not fleeing","False",2015
+"978","William David Raff",2015-12-25,"shot","knife",31,"M","W","Palo Alto","California","True","attack","Not fleeing","False",2015
+"979","Lonnie Niesen",2015-12-26,"shot","brick",41,"M","W","Phoenix","Arizona","True","other","Not fleeing","False",2015
+"980","Bettie Jones",2015-12-26,"shot","unarmed",55,"F","B","Chicago","Illinois","False","other",NA,"False",2015
+"981","Quintonio LeGrier",2015-12-26,"shot","baseball bat",19,"M","B","Chicago","Illinois","True","undetermined","Not fleeing","False",2015
+"982","Gilbert Heredia",2015-12-26,"shot","gun",38,"M","H","Homedale","Idaho","False","attack","Not fleeing","True",2015
+"983","Michael Parker",2015-12-27,"shot","undetermined",36,"M","W","Lucedale","Mississippi","False","undetermined","Car","False",2015
+"984","Sean Mould",2015-12-27,"shot","knife",34,"M","W","Tempe","Arizona","True","other","Not fleeing","True",2015
+"985","Gayneaux Paul Trahan",2015-12-27,"shot","undetermined",52,"M","W","Franklin","Louisiana","False","undetermined","Not fleeing","False",2015
+"986","Corey Jason Achstein",2015-12-28,"shot","toy weapon",28,"M","W","Suffolk","Virginia","False","attack","Not fleeing","True",2015
+"987","Siolosega Velega-Nuufolau",2015-12-29,"shot","knife",50,"F","O","Santa Nella","California","True","other","Not fleeing","False",2015
+"988","Tien Hua",2015-12-29,"shot","unknown weapon",NA,"M","A","Rosemead","California","False","undetermined","Not fleeing","False",2015
+"989","Fred Perez",2015-12-30,"shot","knife",55,"M","H","Fresno","California","False","attack","Not fleeing","True",2015
+"990","John Randell Veach",2015-12-30,"shot","undetermined",39,"M",NA,"Rawlins","Wyoming","False","undetermined",NA,"False",2015
+"991","Keith Childress",2015-12-31,"shot","unarmed",23,"M","B","Las Vegas","Nevada","False","other","Not fleeing","True",2015
