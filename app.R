@@ -1,9 +1,10 @@
 library(choroplethr)
+library(choroplethrMaps)
 library(mapproj)
 library(dplyr)
 library(ggplot2)
 library(shiny)
-#library(shinythemes)
+library(shinythemes)
 
 
 load("foods.RDA")
@@ -14,7 +15,7 @@ source("abb2state.R")
 
 # Define UI for application that draws a histogram
 ui <- shinyUI(fluidPage(
- # theme = shinytheme("slate"),
+  theme = shinytheme("slate"),
   
   # Application title
   titlePanel("Statewide"),
