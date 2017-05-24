@@ -15,7 +15,7 @@ source("abb2state.R")
 
 # Define UI for application that draws a histogram
 ui <- shinyUI(fluidPage(
-  theme = shinytheme("slate"),
+  #theme = shinytheme("slate"),
   
   # Application title
   titlePanel("Statewide"),
