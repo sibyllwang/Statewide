@@ -4,7 +4,7 @@ library(mapproj)
 library(dplyr)
 library(ggplot2)
 library(shiny)
-library(shinythemes)
+#library(shinythemes)
 
 load("foods.RDA")
 load("pop6015.RDA")
