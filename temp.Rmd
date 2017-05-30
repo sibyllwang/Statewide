@@ -1,6 +1,0 @@
----
-title: "temporary.rmd"
-output: html_document
----
-
-Hello world
