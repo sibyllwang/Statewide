@@ -13,7 +13,8 @@ source("abb2state.R")
 
 
 # Define UI for application that draws a histogram
-ui <- shinyUI(fluidPage(
+ui <- function(request){
+  fluidPage(
   #theme = shinytheme("slate"),
   
   # Application title
@@ -131,7 +132,8 @@ ui <- shinyUI(fluidPage(
     
     tabPanel(title = "Analysis",
              uiOutput("ui"))
-  )))
+  ),
+  bookmarkButton())}
 
 
 
@@ -487,6 +489,9 @@ server <- shinyServer(function(input, output, session) {
   }, options = list(pageLength = 10))
   
 })
+
+
+enableBookmarking(store = "url")
 
 # Run the application 
 shinyApp(ui = ui, server = server)
